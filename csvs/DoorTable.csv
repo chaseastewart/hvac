@@ -1,0 +1,6 @@
+"Door","Owning
+Room","Type Name","Direction","Azimuth","Tilt","Area","Touching","Main Door",
+"F1","Living(2)","French / Glass Door","Front","South","90","33.3333","Outside","No",
+"L1","Front Stairs(2)","French / Glass Door","Left","West","90","20","Outside","No",
+"R1","Back stairs(1)","Solid Wood Door","Right","East","90","17.7778","Outside","No",
+"F2","Master(1)","French / Glass Door","Front","South","90","33.3333","Outside","No",

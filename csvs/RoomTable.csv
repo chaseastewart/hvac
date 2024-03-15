@@ -1,0 +1,33 @@
+"Row","Room Name","Floor","System/Block","Zone","Floor
+Area","Volume","Room Type","Number of
+Occupants","Heating
+Load","Heating
+Fraction","Heating
+CFM","Sens Cooling
+Load*","Cooling
+Fraction","Cooling
+CFM","Duct Size
+CFM",
+"1","Basement Center","1","---","Zone","833","6664","Basement Unfinished","0","0","0","0","0","0","0","0",
+"2","Basement West","1","Basement Furnace","Zone","135","1078","Basement Unfinished","0","18802","0.234","469","5910","0.137","219","469",
+"3","Basement East","1","Basement Furnace","Zone","96","770","Basement Unfinished","0","14808","0.185","369","4664","0.108","173","369",
+"4","Living","2","Basement Furnace","Zone","286","2576","Other","1","12915","0.161","322","11151","0.258","413","413",
+"5","Front Bedroom","2","Basement Furnace","Zone","155","1397","Bedroom","1","4890","0.061","122","2629","0.061","97","122",
+"6","Front Stairs","2","Basement Furnace","Zone","55","495","Other","0","4460","0.056","111","1698","0.039","63","111",
+"7","Dining","2","Basement Furnace","Zone","176","1580","Other","1","5045","0.063","126","2098","0.049","78","126",
+"8","Bathroom","2","Basement Furnace","Zone","42","378","Other","0","2024","0.025","50","1098","0.025","41","50",
+"9","Kitchen","2","Basement Furnace","Zone","155","1395","Kitchen","1","2949","0.037","74","3579","0.083","132","132",
+"10","Back stairs","2","Basement Furnace","Zone","75","675","Other","0","1538","0.019","38","442","0.01","16","38",
+"11","Mainfloor Closets","2","Basement Furnace","Zone","20","180","Other","0","69","0.001","2","10","0","0","2",
+"12","Back Bedroom","2","Basement Furnace","Zone","175","1575","Other","0","9393","0.117","234","7030","0.163","260","260",
+"13","Laundry","2","Basement Furnace","Zone","75","675","Other","0","3243","0.04","81","2877","0.067","106","106",
+"14","Up Bathroom","3","Attic Furnace","Zone","42","378","Other","0","1950","0.038","60","1256","0.032","45","60",
+"15","Up Laundry / Hallway","3","Attic Furnace","Zone","155","1395","Other","0","2393","0.046","74","1222","0.031","44","74",
+"16","Up Front Bedroom","3","Attic Furnace","Zone","162","1458","Bedroom","1","4477","0.087","139","3125","0.08","112","139",
+"17","Gameroom","3","Attic Furnace","Zone","207","1865","Other","1","6332","0.123","196","3472","0.089","124","196",
+"18","Upstairs closets","3","Basement Furnace","Zone","20","180","Other","0","63","0.001","2","54","0.001","2","2",
+"19","Second Master","3","Attic Furnace","Zone","175","1575","Bedroom","0","10199","0.198","316","8106","0.207","290","316",
+"20","Master","3","Attic Furnace","Zone","271","2441","Bedroom","0","13086","0.253","406","12253","0.313","438","438",
+"21","Master Closet","3","Attic Furnace","Zone","32","284","Other","0","3080","0.06","96","2586","0.066","92","96",
+"22","Up Back Bedroom","3","Attic Furnace","Zone","184","1654","Bedroom","1","10118","0.196","314","7187","0.183","257","314",
+"Total","---","---","---","---","3525.75","30667.75","---","Total occ","post","post","---","post","post","---","---",

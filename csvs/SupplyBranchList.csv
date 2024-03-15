@@ -1,0 +1,23 @@
+"SB Number
+ (Does not match EG)","Room
+Served","AirFlow
+CFM","Friction
+Rate","Diameter
+Inches","Rect Height
+Inches","Length
+Feet","Velocity
+FPM","Register
+Size (in)","Trunk #","Return #","Type",
+"SB 14.1","Up Bathroom","60","0.1","5","N/A","4'","443","12 x 6","ST1","Dir Return 1(---)","Flex Duct",
+"SB 15.1","Up Laundry / Hallway","74","0.1","5","N/A","4'","543","10 x 10","ST2","Dir Return 1(---)","Flex Duct",
+"SB 16.1","Up Front Bedroom","139","0.1","7","N/A","8'","519","12 x 12","ST1","Dir Return 2(---)","Flex Duct",
+"SB 17.1","Gameroom","98","0.1","6","N/A","9'","500","10 x 10","ST2","Dir Return 2(---)","Flex Duct",
+"SB 17.2","Gameroom","98","0.09","6","N/A","19'","500","10 x 10","ST2","Dir Return 2(---)","Flex Duct",
+"SB 19.1","Second Master","158","0.1","7","N/A","17'","591","12 x 12","ST1","Dir Return 1(---)","Flex Duct",
+"SB 19.2","Second Master","158","0.1","7","N/A","13'","591","12 x 12","ST1","Dir Return 1(---)","Flex Duct",
+"SB 20.1","Master","146","0.09","7","N/A","29'","546","12 x 12","ST1","Dir Return 2(---)","Flex Duct",
+"SB 20.2","Master","146","0.09","7","N/A","19'","546","12 x 12","ST1","Dir Return 2(---)","Flex Duct",
+"SB 20.3","Master","146","0.09","7","N/A","28'","546","12 x 12","ST1","Dir Return 2(---)","Flex Duct",
+"SB 21.1","Master Closet","96","0.09","6","N/A","23'","486","10 x 10","ST2","Dir Return 2(---)","Flex Duct",
+"SB 22.1","Up Back Bedroom","157","0.1","7","N/A","13'","587","12 x 12","ST2","Dir Return 1(---)","Flex Duct",
+"SB 22.2","Up Back Bedroom","157","0.1","7","N/A","8'","587","12 x 12","ST2","Dir Return 1(---)","Flex Duct",

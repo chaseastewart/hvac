@@ -1,0 +1,6 @@
+"System/Block Name","Heating air flow","Cooling air flow","Duct air flow","ESP","Heating Load","Cooling Load","Sensible
+Cooling Load","Latent
+Cooling Load","Load SHR","SHR CFM",
+"Basement Furnace","2000","1600","2201.4","0.6","80199.9","44761","40609.1","4152","0.91","2172",
+"Attic Furnace","1600","1400","1631.9","0.6","51635","39104.9","36339.8","2765","0.93","1943",
+"total","3600","3000","3833.3","","131834.9","83865.9","76948.91","6917","0.92","4115",

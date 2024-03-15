@@ -1,0 +1,2837 @@
+[EnergyGauge USA Building File - USRKDB v7.5.02] 
+
+[Project Data]
+RECORDS:                       1
+FIELDS:                        255
+
+   [Project 1]
+   WORST_CASE:                 No
+   CLASS:                      3
+   DUCT_LEAKFREE:              NULL
+   DUCT_DISCONNECTS:           NULL
+   DUCT_QN:                    NULL
+   MULTIZONE_COOL:             NULL
+   MULTIZONE_HEAT:             NULL
+   ATTIC_RAD_BAR:              NULL
+   CEIL_FANS:                  NULL
+   CROSS_VENT:                 NULL
+   WHOLE_HOUSE_FAN:            NULL
+   INFIL_PRACTICE:             NULL
+   INFIL_DESC:                 NULL
+   PROG_THERM_COOL:            NULL
+   PROG_THERM_HEAT:            NULL
+   RATER_PW:                   NULL
+   RATER_ID:                   
+   RATER_NAME:                 
+   REG_DATE:                   NULL
+   CALC_CODE:                  F
+   CALC_RATING:                F
+   CALC_HERS:                  F
+   USE_ADDRESS:                S
+   LOT_NUMBER:                 NULL
+   SUBDIVISION:                NULL
+   PLATBOOK:                   NULL
+   CHECKSUM1:                  NULL
+   CHECKSUM2:                  NULL
+   SAVE_DATE:                  2024/03/14
+   SAVE_TIME:                  12:43:16
+   ROTATE_ANGLE:               0
+   NUM_RFI:                    0
+   UTILITY_STATE:              Florida
+   ELECTRIC_UTILITY:           Florida Average
+   GAS_UTILITY:                Florida Average
+   PREPARER:                   
+   PROPANE_UTILITY:            Florida Default
+   OIL_UTILITY:                Florida Default
+   ELECTRIC_FIXED_COST:        0
+   ELECTRIC_COST:              0.1145
+   ELECTRIC_COST_METHOD:       Standard
+   GAS_FIXED_COST:             0
+   GAS_COST:                   1.82
+   GAS_COST_METHOD:            Standard
+   OIL_FIXED_COST:             0
+   OIL_COST:                   1.1
+   PROPANE_FIXED_COST:         0
+   PROPANE_COST:               1.4
+   TMY_SITE:                   MO_KANSAS_CITY_DOWNTOWN_AP
+   TMY_SITE_FOUND:             True
+   SUMMER_DESIGN_TEMP:         95
+   WINTER_DESIGN_TEMP:         12
+   SUMMER_INT_DESIGN_TEMP:     75
+   SUMMER_MOISTURE_CONTENT:    40
+   SUMMER_TEMP_RANGE:          Medium
+   WINTER_INT_DESIGN_TEMP:     70
+   LATITUDE:                   39.12
+   LONGITUDE:                  94.6
+   ALTITUDE:                   741.5
+   TIME_ZONE:                  6
+   AVG_AIR_TEMP:               58.5
+   HEATING_DEGREE_DAYS:        4284.5
+   CLIMATE_ZONE:               4
+   MOISTURE_REGIME:            moist
+   WEATHER_FACTOR:             0.93
+   HEAT_1:                     Y
+   HEAT_2:                     Y
+   HEAT_3:                     Y
+   HEAT_4:                     Y
+   HEAT_5:                     Y
+   HEAT_6:                     Y
+   HEAT_7:                     Y
+   HEAT_8:                     Y
+   HEAT_9:                     Y
+   HEAT_10:                    Y
+   HEAT_11:                    Y
+   HEAT_12:                    Y
+   COOL_1:                     Y
+   COOL_2:                     Y
+   COOL_3:                     Y
+   COOL_4:                     Y
+   COOL_5:                     Y
+   COOL_6:                     Y
+   COOL_7:                     Y
+   COOL_8:                     Y
+   COOL_9:                     Y
+   COOL_10:                    Y
+   COOL_11:                    Y
+   COOL_12:                    Y
+   VENT_1:                     Y
+   VENT_2:                     Y
+   VENT_3:                     Y
+   VENT_4:                     Y
+   VENT_5:                     Y
+   VENT_6:                     Y
+   VENT_7:                     Y
+   VENT_8:                     Y
+   VENT_9:                     Y
+   VENT_10:                    Y
+   VENT_11:                    Y
+   VENT_12:                    Y
+   AVG_WALL_HEIGHT:            8.91421409339894
+   COND_VOLUME:                24003.75
+   PROGRAMMABLE:               None
+   BLDG_ENTRY_MODE:            Rating
+   HEAT_USE_SYSTEM_SIZING:     T
+   COOL_USE_SYSTEM_SIZING:     T
+   EPA_REG:                    No
+   EPA_CERT:                   
+   EPA_LABEL:                  
+   UTIL_YEAR:                  
+   APPS_CHANGED:               False
+   AUTO_CALCULATE:             False
+   SUMMER_SCHOOL:              False
+   DESCP:                      KwikModel Base
+   DESIGN_STATE:               Missouri
+   OVERSIZE_SIZING:            1
+   APPLIANCE_VERSION:          2006
+   FLR_HISTORY:                None
+   FLR_HEAT_RECOVERY_EFF_SEN:  NULL
+   FLR_AHU_FAN_POWER:          NULL
+   FLR_HRV_ERV_PRESENT:        
+   NUM_BATHROOMS:              0
+   NUM_RETURNS:                1
+   WINTER_DESIGN_TEMP99:       9
+   USE_99TEMPS_FOR_SIZING:     Yes
+   RGUReleaseNum:              None
+   WINTER_DESIGN_TEMPMJ8:      9
+   SUMMER_DESIGN_TEMPMJ8:      94
+   TMY_Version:                TMY3
+   FLR_CLIMATE_ZONE:           Central
+   FLR_CODE_CEILING_FANS:      
+   DESIGN_LOCATION:            MO, KANSAS_CITY_DOWNTOWN_AP
+   DESIGN_CITYNEW:             
+   DESIGN_CITY:                Kansas City (Downtown)
+   DESIGN_LOCATION99NEW:       
+   IG_SCENARIO:                ZoneTotals
+   ESTAR_EXTRA_INFO:           
+   CREATED_BY:                 KwikModel ON 3/9/2024
+   SUMMER_DESIGN_TEMP99:       98
+   DESIGN_LOCATIONMJ8:         MO,Kansas City (Downtown)
+   DESIGN_CITYMJ8:             Kansas City (Downtown)
+   DESIGN_STATEMJ8:            Missouri
+   SUMMER_MOISTURE_MJ8:        42
+   AltitudeMJ8:                751
+   LatitudeMJ8:                39
+   SUMMER_TEMP_RANGEMJ8:       Medium
+   IG_BASE:                    2400
+   IG_CUSTOM:                  0
+   AED_SCENARIO:               MidSummer
+   MJ8_DESIGN_SCENARIO:        MJ8
+   NUM_BEDROOMS_IN_ADDITION:   0
+   LATITUDE99:                 NULL
+   ALTITUDE99:                 NULL
+   SUMMER_MOISTURE_CONTENT99:  NULL
+   DESIGN_LOCATION99:          NULL
+   SUMMER_TEMP_RANGE99:        NULL
+   TERRAIN_PARAMETER:          Suburban
+   SHIELDING_COEF:             Suburban
+   ABOVE_GRADE_UNCOND_AREA:    0
+   BELOW_GRADE_UNCOND_AREA:    833
+   ESTAR_OCCUPANCY:            Single-family detached
+   HVAC_Company:               NULL
+   TEST_DATE_OBSOLETE:         NULL
+   MODEL:                      NULL
+   DEVELOPMENT:                NULL
+   CONSTRUCT_YEAR:             NULL
+   PERMIT_DATE:                NULL
+   PHILIPS_FIELD:              NULL
+   FINAL_INSPECTION_DATE:      NULL
+   TESTED_BY:                  
+   wsf62:                      0.51
+   ACH_CONVERSION_METHOD:      WSF62
+   HERSYEAR:                   2019
+   HDD_CDD_RATIO:              1.03
+   DUCT_TESTED_BY:             
+   DUCT_TEST_DATE:             NULL
+   BUILDER_ADDRESS:            NULL
+   BUILDER_CITY:               NULL
+   BUILDER_STATE:              NULL
+   BUILDER_ZIP:                NULL
+   BUILDER_PHONE:              NULL
+   TMY_ID:                     724463
+   LAST_SAVED_BY:              EGUSA 7502
+   DEF_DUCT_FIT_AHU:           NULL
+   DEF_DUCT_FIT_R_GRILL:       NULL
+   DEF_DUCT_FIT_STRAIGHT:      NULL
+   DEF_DUCT_FIT_R_AHU:         NULL
+   DEF_DUCT_FIT_S_AHU:         NULL
+   DEF_DUCT_FIT_S_GRILL:       NULL
+   DEF_DUCT_FIT_R_STRAIGHT:    NULL
+   DEF_DUCT_FIT_S_STRAIGHT:    NULL
+   DEF_DUCT_FIT_R_AHU_LENGTH:  NULL
+   DEF_DUCT_FIT_S_AHU_LENGTH:  NULL
+   SUMMER_DESIGN_WETBULB_MJ8:  76
+   CA_WINTER_MED_OF_EXTREMES:  NULL
+   DEF_DUCT_FIT_R_GRILL_EQL:   NULL
+   DEF_DUCT_FIT_S_GRILL_EQL:   NULL
+   KWIKMODELENVELOPE:          No
+   HVAC_TESTED_BY:             NULL
+   HVAC_TEST_DATE:             NULL
+   HVAC_TEST_MODE:             NULL
+   HVAC_TESTER_ID:             NULL
+   DUCT_TESTER_ID:             NULL
+   INFIL_TESTER_ID:            NULL
+   ENABLE_HVAC_GRADING:        False
+   FL_CODE_USE_CONVERSION:     False
+   DESIGNER_COMPANY:           NULL
+   ARCH_OPTIONS:               NULL
+   MULTIFAM_LOCATION:          NULL
+   MULTIFAM_FLOOR:             NULL
+   MJ8_User_Win_SEtpoint:      NULL
+   MJ8_User_Sum_SEtpoint:      NULL
+   MJ8_Setpoint_Scenario:      ACCA
+   DESIGNER_NAME:              NULL
+   JSON_EXISTS:                NULL
+   MODELER_NAME_PRE:           NULL
+   MODELER_NAME_Final:         NULL
+   MODELER_ID_PRE:             NULL
+   MODELER_ID_Final:           NULL
+   TCDate_HOME_SOLD:           NULL
+   DEF_DUCT_FIT_S_JBOX:        NULL
+   DEF_DUCT_FIT_R_JBOX:        NULL
+   DEF_DUCT_FIT_S_JBOX_EQL:    NULL
+   DEF_DUCT_FIT_R_JBOX_EQL:    NULL
+   CLIMATE_ZONE_2021:          NULL
+   BUILDER_HOME_ID:            NULL
+   PLAN_ID:                    NULL
+
+[Rate Data]
+RECORDS:                       1
+FIELDS:                        199
+
+   [Rate 1]
+   BUILDING_TYPE:              User
+   REG_ID:                     0
+   COOLING_LE:                 NULL
+   COOLING_LC:                 NULL
+   COOLING_HE:                 NULL
+   COOLING_HC:                 NULL
+   COOLING_ENERGY:             NULL
+   COOLING_COST:               NULL
+   HEATING_LE:                 NULL
+   HEATING_LC:                 NULL
+   HEATING_HE:                 NULL
+   HEATING_HC:                 NULL
+   HEATING_ENERGY:             NULL
+   HEATING_COST:               NULL
+   HOTWATER_LE:                NULL
+   HOTWATER_LC:                NULL
+   HOTWATER_HE:                NULL
+   HOTWATER_HC:                NULL
+   HOTWATER_ENERGY:            NULL
+   HOTWATER_COST:              NULL
+   LGT_LE:                     NULL
+   LGT_LC:                     NULL
+   LGT_HE:                     NULL
+   LGT_HC:                     NULL
+   LGT_ENERGY:                 NULL
+   LGT_COST:                   NULL
+   FRIDGE_LE:                  NULL
+   FRIDGE_LC:                  NULL
+   FRIDGE_HE:                  NULL
+   FRIDGE_HC:                  NULL
+   FRIDGE_ENERGY:              NULL
+   FRIDGE_COST:                NULL
+   DRYER_LE:                   NULL
+   DRYER_LC:                   NULL
+   DRYER_HE:                   NULL
+   DRYER_HC:                   NULL
+   DRYER_ENERGY:               NULL
+   DRYER_COST:                 NULL
+   STOVE_LE:                   NULL
+   STOVE_LC:                   NULL
+   STOVE_HE:                   NULL
+   STOVE_HC:                   NULL
+   STOVE_ENERGY:               NULL
+   STOVE_COST:                 NULL
+   MISC_LE:                    NULL
+   MISC_LC:                    NULL
+   MISC_HE:                    NULL
+   MISC_HC:                    NULL
+   MISC_ENERGY:                NULL
+   MISC_COST:                  NULL
+   POOL_LE:                    NULL
+   POOL_LC:                    NULL
+   POOL_HE:                    NULL
+   POOL_HC:                    NULL
+   POOL_ENERGY:                NULL
+   POOL_COST:                  NULL
+   POOL_FLAG:                  NULL
+   LE_TOTAL:                   NULL
+   LC_TOTAL:                   NULL
+   HE_TOTAL:                   NULL
+   HC_TOTAL:                   NULL
+   HOME_ENERGY:                NULL
+   HOME_COST:                  NULL
+   MIN_CODE_ENERGY:            NULL
+   MIN_CODE_COST:              NULL
+   KILOWATTS:                  NULL
+   THERM:                      NULL
+   HERS_RATING:                NULL
+   HERS_STARS:                 NULL
+   HERS_REF_TOTAL_LOAD:        NULL
+   HERS_REF_COOLING_COST:      NULL
+   HERS_REF_HEATING_COST:      NULL
+   HERS_REF_H2O_COST:          NULL
+   LIGHTING_HERS_REF_ENERGY:   NULL
+   LIGHTING_HERS_REF_COST:     NULL
+   FRIDGE_HERS_REF_ENERGY:     NULL
+   FRIDGE_HERS_REF_COST:       NULL
+   POOL_HERS_REF_ENERGY:       NULL
+   POOL_HERS_REF_COST:         NULL
+   RATER_ADDRESS:              NULL
+   RATER_CITY:                 NULL
+   RATER_STATE:                NULL
+   RATER_NAME:                 NULL
+   RATER_TAX_ID:               NULL
+   RATER_ID:                   NULL
+   RATER_ZIP:                  NULL
+   RATER_PHONE:                NULL
+   RatingGuide:                NULL
+   FinancialDisclosure:        NULL
+   RESNETDisclosure:           NULL
+   EnergyStar:                 NULL
+   ThermalBypass:              NULL
+   EnergyStar2011:             NULL
+   ThermalEnclosureChk:        NULL
+   HVACContractorChk:          NULL
+   HVACRaterChk:               NULL
+   WaterManageChk:             NULL
+   BuildersChallenge:          NULL
+   FannieMae:                  NULL
+   TaxCredit:                  NULL
+   AirPlusChk:                 NULL
+   Owner_Or_Builder:           NULL
+   Builder_Phone:              NULL
+   Builder_Address:            NULL
+   Builder_City:               NULL
+   Builder_State:              NULL
+   Builder_Zip:                NULL
+   Owner_Phone:                NULL
+   Owner_Address:              NULL
+   Owner_City:                 NULL
+   Owner_State:                NULL
+   Owner_Zip:                  NULL
+   HVAC_Company:               NULL
+   HVAC_CONTRACTOR_VERIFIED:   NULL
+   BUILDER_IS_ES_PARTNER:      NULL
+   ESTAR_VERSION:              NULL
+   TOTAL_STORIES:              NULL
+   LOW_INCOME_FINANCING:       NULL
+   ESTAR_BEDROOMS:             NULL
+   XML_ES_AC:                  NULL
+   XML_ES_HP:                  NULL
+   XML_ES_FURNACE:             NULL
+   XML_ES_WINDOWS:             NULL
+   XML_ES_DHW:                 NULL
+   XML_ES_FRIDGE:              NULL
+   XML_ES_DISHWASHER:          NULL
+   XML_ES_CLOTHESWASHER:       NULL
+   XML_ES_DRYER:               NULL
+   XML_ES_LIGHTS:              NULL
+   XML_ES_CEILINGFANS:         NULL
+   ERR_IGNORED1:               NULL
+   ERR_IGNORED2:               NULL
+   ERR_IGNORED3:               NULL
+   ERR_IGNORED4:               NULL
+   ERR_IGNORED5:               NULL
+   ERR_IGNORED6:               NULL
+   ERR_IGNORED7:               NULL
+   ERR_IGNORED8:               NULL
+   ERR_IGNORED9:               NULL
+   ERR_IGNORED10:              NULL
+   ERR_IGNORED11:              NULL
+   ERR_IGNORED12:              NULL
+   ERR_IGNORED13:              NULL
+   ERR_IGNORED14:              NULL
+   ERR_IGNORED15:              NULL
+   ERR_IGNORED16:              NULL
+   ERR_IGNORED17:              NULL
+   ERR_IGNORED18:              NULL
+   ERR_IGNORED19:              NULL
+   ERR_IGNORED20:              NULL
+   ITEMS_IGNORED:              NULL
+   ESTAR_COMPLETE:             NULL
+   REG_COMPLETE:               NULL
+   TOTAL_KWH:                  NULL
+   TOTAL_THERMS:               NULL
+   TOTAL_OIL_GALLONS:          NULL
+   TOTAL_PROPANE_GALLONS:      NULL
+   TOTAL_KWH_COST:             NULL
+   TOTAL_THERM_COST:           NULL
+   TOTAL_OIL_COST:             NULL
+   TOTAL_PROPANE_COST:         NULL
+   NUM_ES_REFRIDGE:            NULL
+   NUM_ES_DISHWASHERS:         NULL
+   NUM_ES_CEILINGFANS:         NULL
+   NUM_ES_EXHAUSTFANS:         NULL
+   DOE_CHALLENGE:              NULL
+   ESCHECKLISTS_COMPLETED_CH:  NULL
+   PCT_ES_LIGHTING:            NULL
+   ESTAR_VERSION_INFO:         NULL
+   IECC_2015_ERI:              NULL
+   INDOORAIRPLUS:              NULL
+   INDOORAIRPLUS_VER:          NULL
+   INDOORAIRPLUS_REV:          NULL
+   ERI2015_Certified:          NULL
+   CURRENT_HERS_INDEX:         XX  
+   CURRENT_ESTAR_TARGET_F31:   --
+   CURRENT_ESTAR_PASSFAIL_F31: --
+   CURRENT_ESTAR_TARGET_N31:   --
+   CURRENT_ESTAR_PASSFAIL_N31: --
+   CURRENT_ESTAR_PRESCRIP_N31: --
+   CURRENT_ESTAR_TARGET_N30:   --
+   CURRENT_ESTAR_PASSFAIL_N30: --
+   CURRENT_ESTAR_PRESCRIP_N30: --
+   CURRENT_ESTAR_PRESCRIP_F31: --
+   HERSIAD:                    NULL
+   IADSave:                    NULL
+   TAX_CREDIT_ONLY:            NULL
+   CURRENT_TAX_SAVINGS:        
+   CURRENT_HERS_INDEX_IAD:     XX  
+   CURRENT_ESTAR:              XX  
+   CURRENT_ESTAR_VERSION:      ESTAR 3.0 
+   IECC_2018_ERI:              NULL
+   ERI2018_Certified:          NULL
+   CURRENT_TAX_SAVINGS_ENV:    
+   EPA_FIELD_APPID:            NULL
+   RegisterWithHVACGrading:    NULL
+   DOE_ZERH_REQUESTED:         NULL
+   DOE_ZERH_VERSION:           NULL
+
+[RatePrograms Data]
+RECORDS:                       0
+FIELDS:                        17
+
+[Climate Change Data]
+RECORDS:                       1
+FIELDS:                        7
+
+   [Climate Change 1]
+   City:                       MO, KANSAS_CITY_DOWNTOWN_AP
+   State:                      Missouri
+   Display_City:               Kansas City (Downtown)
+   Date:                       6/5/2008
+   Time:                       12:26:41 PM
+   Comments:                   
+   Custom:                     N
+
+[Climate Data]
+RECORDS:                       1
+FIELDS:                        52
+
+   [Climate 1]
+   City:                       MO, KANSAS_CITY_DOWNTOWN_AP
+   State:                      Missouri
+   DISPLAY_CITY:               Kansas City (Downtown)
+   TMY_ID:                     724463
+   TMY3_SITE:                  MO_KANSAS_CITY_DOWNTOWN_AP
+   WET_BULB_MJE:               76
+   WET_BULB_TMY3:              NULL
+   WINTER_DESIGN_TEMP:         12
+   WINTER_DESIGN99_TMY3:       9
+   Winter_Design_TEMPMJ8:      -999
+   WINTER_DESIGN_TEMP_MJE:     9
+   WINTER_DESIGN_T_97_TMY2:    NULL
+   SUMMER_DESIGN_TEMP_MJE:     94
+   SUMMER_DESIGN_TEMP:         95
+   SUMMER_DESIGN99_TMY3:       98
+   TMY3_COOLING_1PCT_DB:       98
+   TMY3_COOLING_25PCT_DB:      95
+   Summer_Design_TEMPMJ8:      -999
+   SUMMER_DESIGN_T_25_TMY2:    NULL
+   MOISTURE_REGIME:            moist
+   SUMMER_MOISTURE:            40
+   SUMMER_MOISTURE_MJE:        42
+   SUMMER_MOISTURE_MJ8:        -999
+   TMY3_GRAINS_1PCT:           30
+   TMY3_GRAINS_25PCT:          50
+   CALC_GRAINS2:               45.36
+   DAILY_TEMP_RANGE:           Medium
+   DAILY_TEMP_RANGE_MJ8:       Medium
+   LATITUDE:                   39.12
+   LATITUDE_MJ8:               39
+   LONGITUDE:                  94.6
+   ALTITUDE_TMY3:              NULL
+   ALTITUDE:                   741.5
+   ALTITUDE_MJ8:               751
+   TIME_ZONE:                  6
+   CLIMATE_ZONE:               4
+   AVG_ANNUAL_TEMP:            58.5
+   HEATING_DEGREE_DAYS:        4284.5
+   IS_TMY_SITE:                y
+   IS_TMY2_SITE:               
+   Comment:                    
+   TMY2_SITE:                  
+   SITE:                       KANSAS CITY DOWNTOWN AP
+   WEATHER_FACTOR:             0.93
+   WF_PF:                      0.81
+   wsf62:                      0.51
+   HDD_CDD_RATIO_MJE:          1.03
+   LOCATION_MJE:               KANSAS CITY DOWNTOWN AP
+   WMO:                        NULL
+   CALC_TMY3:                  SAME
+   CALC_TMY3_ID:               724463
+   Winter_Median_of_Extremes:  NULL
+
+[Electric Utility Change Data]
+RECORDS:                       1
+FIELDS:                        6
+
+   [Electric Utility Change 1]
+   UTILITY_NAME:               Florida Average
+   STATE:                      Florida
+   CUSTOM:                     N
+   DATE:                       10/3/2019
+   TIME:                       3:29:06 PM
+   COMMENTS:                   Saved from 2017 EIA
+
+[Electric Utility Data]
+RECORDS:                       1
+FIELDS:                        6
+
+   [Electric Utility 1]
+   UTILITY_NAME:               Florida Average
+   STATE:                      Florida
+   UTILITY_YEAR:               2017
+   COST2012:                   NULL
+   FIXED_MONTHLY_COST:         0
+   COST:                       0.1161
+
+[Natural Gas Utility Change Data]
+RECORDS:                       1
+FIELDS:                        6
+
+   [Natural Gas Utility Change 1]
+   Utility_Name:               Florida Average
+   State:                      Florida
+   Date:                       11/12/2012
+   Time:                       11:37:00 AM
+   Comments:                   
+   Custom:                     N
+
+[Natural Gas Utility Data]
+RECORDS:                       1
+FIELDS:                        9
+
+   [Natural Gas Utility 1]
+   UTILITY_NAME:               Florida Average
+   STATE:                      Florida
+   COST04:                     1.72
+   FIXED_MONTHLY_COST:         0
+   OldCOST:                    2.119
+   COST2010:                   1.82
+   COST2014:                   1.801
+   COST:                       2.042
+   YEAR:                       2017
+
+[Fuel Oil Utility Change Data]
+RECORDS:                       1
+FIELDS:                        6
+
+   [Fuel Oil Utility Change 1]
+   UTILITY_NAME:               Florida Default
+   State:                      Florida
+   Date:                       4/1/2010
+   Time:                       11:13:37 AM
+   Comments:                   
+   Custom:                     N
+
+[Fuel Oil Utility Data]
+RECORDS:                       1
+FIELDS:                        8
+
+   [Fuel Oil Utility 1]
+   UTILITY_NAME:               Florida Default
+   STATE:                      Florida
+   COST04:                     1.1
+   COST09:                     2.35
+   FIXED_MONTHLY_COST:         0
+   COST11:                     3.528
+   UTIL_YEAR:                  2014
+   COST:                       3.364
+
+[Propane Utility Change Data]
+RECORDS:                       1
+FIELDS:                        6
+
+   [Propane Utility Change 1]
+   UTILITY_NAME:               Florida Default
+   State:                      Florida
+   Date:                       4/1/2010
+   Time:                       11:13:37 AM
+   Comments:                   
+   Custom:                     N
+
+[Propane Utility Data]
+RECORDS:                       1
+FIELDS:                        7
+
+   [Propane Utility 1]
+   UTILITY_NAME:               Florida Default
+   STATE:                      Florida
+   COSTOLD:                    2.41
+   FIXED_MONTHLY_COST:         0
+   COST11:                     3.132
+   UTIL_YEAR:                  2014
+   COST:                       4.507
+
+[Surroundings Data]
+RECORDS:                       1
+FIELDS:                        67
+
+   [Surroundings 1]
+   BUILDING_TYPE:              User
+   REG_ID:                     0
+   TREE_TYPE1:                 None
+   TREE_TYPE2:                 None
+   TREE_TYPE3:                 None
+   TREE_TYPE4:                 None
+   TREE_TYPE5:                 None
+   TREE_TYPE6:                 None
+   TREE_TYPE7:                 None
+   TREE_TYPE8:                 None
+   TREE_HEIGHT1:               0
+   TREE_HEIGHT2:               0
+   TREE_HEIGHT3:               0
+   TREE_HEIGHT4:               0
+   TREE_HEIGHT5:               0
+   TREE_HEIGHT6:               0
+   TREE_HEIGHT7:               0
+   TREE_HEIGHT8:               0
+   TREE_WIDTH1:                0
+   TREE_WIDTH2:                0
+   TREE_WIDTH3:                0
+   TREE_WIDTH4:                0
+   TREE_WIDTH5:                0
+   TREE_WIDTH6:                0
+   TREE_WIDTH7:                0
+   TREE_WIDTH8:                0
+   TREE_DISTANCE1:             0
+   TREE_DISTANCE2:             0
+   TREE_DISTANCE3:             0
+   TREE_DISTANCE4:             0
+   TREE_DISTANCE5:             0
+   TREE_DISTANCE6:             0
+   TREE_DISTANCE7:             0
+   TREE_DISTANCE8:             0
+   BLDG_EXIST1:                False
+   BLDG_EXIST2:                False
+   BLDG_EXIST3:                False
+   BLDG_EXIST4:                False
+   BLDG_EXIST5:                False
+   BLDG_EXIST6:                False
+   BLDG_EXIST7:                False
+   BLDG_EXIST8:                False
+   BLDG_HEIGHT1:               0
+   BLDG_HEIGHT2:               0
+   BLDG_HEIGHT3:               0
+   BLDG_HEIGHT4:               0
+   BLDG_HEIGHT5:               0
+   BLDG_HEIGHT6:               0
+   BLDG_HEIGHT7:               0
+   BLDG_HEIGHT8:               0
+   BLDG_WIDTH1:                0
+   BLDG_WIDTH2:                0
+   BLDG_WIDTH3:                0
+   BLDG_WIDTH4:                0
+   BLDG_WIDTH5:                0
+   BLDG_WIDTH6:                0
+   BLDG_WIDTH7:                0
+   BLDG_WIDTH8:                0
+   BLDG_DISTANCE1:             0
+   BLDG_DISTANCE2:             0
+   BLDG_DISTANCE3:             0
+   BLDG_DISTANCE4:             0
+   BLDG_DISTANCE5:             0
+   BLDG_DISTANCE6:             0
+   BLDG_DISTANCE7:             0
+   BLDG_DISTANCE8:             0
+
+[Floor Data]
+
+[Roof Data]
+
+[Ceiling Data]
+
+[Wall Data]
+
+[Door Data]
+
+[Windows Data]
+
+[Infiltration Data]
+RECORDS:                       10
+FIELDS:                        6
+
+   [Infiltration 1]
+   BUILDING_TYPE:              User
+   DATA_ID:                    1
+   REG_ID:                     0
+   PRESSURE:                   NULL
+   FLOW:                       NULL
+
+   [Infiltration 2]
+   BUILDING_TYPE:              User
+   DATA_ID:                    2
+   REG_ID:                     0
+   PRESSURE:                   NULL
+   FLOW:                       NULL
+
+   [Infiltration 3]
+   BUILDING_TYPE:              User
+   DATA_ID:                    3
+   REG_ID:                     0
+   PRESSURE:                   NULL
+   FLOW:                       NULL
+
+   [Infiltration 4]
+   BUILDING_TYPE:              User
+   DATA_ID:                    4
+   REG_ID:                     0
+   PRESSURE:                   NULL
+   FLOW:                       NULL
+
+   [Infiltration 5]
+   BUILDING_TYPE:              User
+   DATA_ID:                    5
+   REG_ID:                     0
+   PRESSURE:                   NULL
+   FLOW:                       NULL
+
+   [Infiltration 6]
+   BUILDING_TYPE:              User
+   DATA_ID:                    6
+   REG_ID:                     0
+   PRESSURE:                   NULL
+   FLOW:                       NULL
+
+   [Infiltration 7]
+   BUILDING_TYPE:              User
+   DATA_ID:                    7
+   REG_ID:                     0
+   PRESSURE:                   NULL
+   FLOW:                       NULL
+
+   [Infiltration 8]
+   BUILDING_TYPE:              User
+   DATA_ID:                    8
+   REG_ID:                     0
+   PRESSURE:                   NULL
+   FLOW:                       NULL
+
+   [Infiltration 9]
+   BUILDING_TYPE:              User
+   DATA_ID:                    9
+   REG_ID:                     0
+   PRESSURE:                   NULL
+   FLOW:                       NULL
+
+   [Infiltration 10]
+   BUILDING_TYPE:              User
+   DATA_ID:                    10
+   REG_ID:                     0
+   PRESSURE:                   NULL
+   FLOW:                       NULL
+
+[Garage Data]
+RECORDS:                       0
+FIELDS:                        28
+
+[Mechvent Data]
+RECORDS:                       2
+FIELDS:                        72
+
+   [Mechvent 1]
+   BUILDING_TYPE:              User
+   MECHVENT_ID:                1
+   BLOCK_ID:                   1
+   REG_ID:                     0
+   BALANCED_VENT_RATE:         0
+   EXHAUST_VENT_RATE:          0
+   HRV:                        0
+   LATENT_HEAT_RECOVERY:       0
+   TOTAL_VENT_POWER:           NULL
+   RUNTIME_FRAC:               NULL
+   ADDED_POWER_VENT:           NULL
+   FORCED_AIR_VENT:            None
+   RUNTIME_VENT_MIN:           NULL
+   RUNTIME_VENT_MAX:           NULL
+   DESCP:                      NULL
+   COOLING_SYSTEM_SERVED:      1 - Central Unit
+   HEATING_SYSTEM_SERVED:      1 - Natural Gas Furnace
+   Override_Type:              None
+   Override_Threshold_Cool_1:  NULL
+   Override_Threshold_Cool_2:  NULL
+   Override_Threshold_Cool_3:  NULL
+   Override_Threshold_Cool_4:  NULL
+   Override_Threshold_Cool_5:  NULL
+   Override_CutBy_Cool_1:      NULL
+   Override_CutBy_Cool_2:      NULL
+   Override_CutBy_Cool_3:      NULL
+   Override_CutBy_Cool_4:      NULL
+   Override_CutBy_Cool_5:      NULL
+   Override_Threshold_Heat_1:  NULL
+   Override_Threshold_Heat_2:  NULL
+   Override_Threshold_Heat_3:  NULL
+   Override_Threshold_Heat_4:  NULL
+   Override_Threshold_Heat_5:  NULL
+   Override_CutBy_Heat_1:      NULL
+   Override_CutBy_Heat_2:      NULL
+   Override_CutBy_Heat_3:      NULL
+   Override_CutBy_Heat_4:      NULL
+   Override_CutBy_Heat_5:      NULL
+   FULL_FAN_CAP_FLOW:          NULL
+   HR1:                        NULL
+   HR2:                        NULL
+   HR3:                        NULL
+   HR4:                        NULL
+   HR5:                        NULL
+   HR6:                        NULL
+   HR7:                        NULL
+   HR8:                        NULL
+   HR9:                        NULL
+   HR10:                       NULL
+   HR11:                       NULL
+   HR12:                       NULL
+   HR13:                       NULL
+   HR14:                       NULL
+   HR15:                       NULL
+   HR16:                       NULL
+   HR17:                       NULL
+   HR18:                       NULL
+   HR19:                       NULL
+   HR20:                       NULL
+   HR21:                       NULL
+   HR22:                       NULL
+   HR23:                       NULL
+   HR24:                       NULL
+   RUNTIME_VENT_RATE:          0
+   POWER_ENTRY_METHOD:         NULL
+   SUPPLY_SOURCE:              NULL
+   MANUFACTURER:               NULL
+   MODEL_NUMBER:               NULL
+   CONTROL_LOCATION:           NULL
+   VENT_DESIGN_BASIS:          NULL
+   VentDuctedtoRooms:          No
+
+   [Mechvent 2]
+   BUILDING_TYPE:              User
+   MECHVENT_ID:                2
+   BLOCK_ID:                   2
+   REG_ID:                     0
+   BALANCED_VENT_RATE:         0
+   EXHAUST_VENT_RATE:          0
+   HRV:                        0
+   LATENT_HEAT_RECOVERY:       0
+   TOTAL_VENT_POWER:           NULL
+   RUNTIME_FRAC:               NULL
+   ADDED_POWER_VENT:           NULL
+   FORCED_AIR_VENT:            None
+   RUNTIME_VENT_MIN:           NULL
+   RUNTIME_VENT_MAX:           NULL
+   DESCP:                      NULL
+   COOLING_SYSTEM_SERVED:      2 - Central Unit
+   HEATING_SYSTEM_SERVED:      2 - Natural Gas Furnace
+   Override_Type:              None
+   Override_Threshold_Cool_1:  NULL
+   Override_Threshold_Cool_2:  NULL
+   Override_Threshold_Cool_3:  NULL
+   Override_Threshold_Cool_4:  NULL
+   Override_Threshold_Cool_5:  NULL
+   Override_CutBy_Cool_1:      NULL
+   Override_CutBy_Cool_2:      NULL
+   Override_CutBy_Cool_3:      NULL
+   Override_CutBy_Cool_4:      NULL
+   Override_CutBy_Cool_5:      NULL
+   Override_Threshold_Heat_1:  NULL
+   Override_Threshold_Heat_2:  NULL
+   Override_Threshold_Heat_3:  NULL
+   Override_Threshold_Heat_4:  NULL
+   Override_Threshold_Heat_5:  NULL
+   Override_CutBy_Heat_1:      NULL
+   Override_CutBy_Heat_2:      NULL
+   Override_CutBy_Heat_3:      NULL
+   Override_CutBy_Heat_4:      NULL
+   Override_CutBy_Heat_5:      NULL
+   FULL_FAN_CAP_FLOW:          NULL
+   HR1:                        NULL
+   HR2:                        NULL
+   HR3:                        NULL
+   HR4:                        NULL
+   HR5:                        NULL
+   HR6:                        NULL
+   HR7:                        NULL
+   HR8:                        NULL
+   HR9:                        NULL
+   HR10:                       NULL
+   HR11:                       NULL
+   HR12:                       NULL
+   HR13:                       NULL
+   HR14:                       NULL
+   HR15:                       NULL
+   HR16:                       NULL
+   HR17:                       NULL
+   HR18:                       NULL
+   HR19:                       NULL
+   HR20:                       NULL
+   HR21:                       NULL
+   HR22:                       NULL
+   HR23:                       NULL
+   HR24:                       NULL
+   RUNTIME_VENT_RATE:          0
+   POWER_ENTRY_METHOD:         NULL
+   SUPPLY_SOURCE:              NULL
+   MANUFACTURER:               NULL
+   MODEL_NUMBER:               NULL
+   CONTROL_LOCATION:           NULL
+   VENT_DESIGN_BASIS:          NULL
+   VentDuctedtoRooms:          No
+
+[Dehumidifier Data]
+RECORDS:                       0
+FIELDS:                        36
+
+[NaturalINFL Data]
+RECORDS:                       1
+FIELDS:                        51
+
+   [NaturalINFL 1]
+   BUILDING_TYPE:              User
+   INFIL_ID:                   1
+   REG_ID:                     NULL
+   BLOCK_IDx:                  NULL
+   RATED_ROOM_ID:              NULL
+   SCOPE:                      Wholehouse
+   DESCP:                      NULL
+   COOLING_SYSTEM_SERVED:      NULL
+   HEATING_SYSTEM_SERVED:      NULL
+   DATA_ENTRY_METHOD:          5
+   ACH50:                      0
+   SLA:                        0
+   CFM50:                      0
+   ELA:                        0
+   EQLA:                       0
+   ESTIMATED_ACH:              0
+   INFIL_C:                    0
+   INFIL_N:                    NULL
+   INFIL_R:                    NULL
+   TEST_DATE:                  1/1/2021
+   ENVELOPE_TIGHTNESS:         Average
+   PRESSURE:                   NULL
+   FLOW:                       NULL
+   SCOPENUM:                   NULL
+   INFIL_AREA:                 1214
+   INFIL_Volume:               19438
+   Win_ACH:                    NULL
+   SUM_ACH:                    NULL
+   USER_PEAK_ACH:              MJ5A
+   TEST_TYPE:                  None
+   TEST_AMBIENT_TEMP:          NULL
+   TEST_INDOOR_TEMP:           NULL
+   TEST_SITE_ELEVATION:        NULL
+   TEST_BASE_PRESSURE:         NULL
+   TEST_PRESS_OR_DEPRESS:      NULL
+   PRE_WEATHER_ADJ_AVAIL:      NULL
+   SP_RAW_FAN_FLOW:            NULL
+   WEATHER_ADJ_BY:             EnergyGauge
+   SP_10PCT_ADJ_BY:            EnergyGauge
+   MP_RAW_FAN_FLOW:            NULL
+   MF_15PCT_ADJ_BY:            None
+   CNR_RAW_INFIL_C:            NULL
+   TEST_ATTIC_HATCH:           Closed
+   TEST_CRAWL_HATCH:           Closed
+   BLOWER_DOOR_MODEL:          NULL
+   BLOWER_DOOR_Serial:         NULL
+   TEST_BSMT_HATCH:            Closed
+   GENERAL_WEATHER:            NULL
+   TEST_EXCEPTION_TYPE:        Select one
+   ACCA_TIGHTNESS:             Loose
+
+
+[Block Data]
+
+[Basement Data]
+RECORDS:                       0
+FIELDS:                        18
+
+[Room Data]
+
+[Sunspace Data]
+RECORDS:                       0
+FIELDS:                        56
+
+[AHU Data]
+RECORDS:                       0
+FIELDS:                        43
+
+[Cooling Data]
+RECORDS:                       2
+FIELDS:                        56
+
+   [Cooling 1]
+   BUILDING_TYPE:              User
+   HVAC_ID:                    1
+   TYPE:                       Central Unit
+   REG_ID:                     0
+   NUM_UNITS:                  NULL
+   CAP:                        42
+   EFF:                        13
+   FUEL_TYPE:                  Electric
+   SENSIBLE_HEAT_RATIO:        0.833
+   COIL_CFM:                   1600
+   EVAP_EFF:                   0.85
+   EVAP_COIL_CFM:              3500
+   EVAP_FAN_POWER:             0.0002
+   MANUFACTURER:               
+   MODEL_NUMBER:               
+   EVAP_COND_EFF:              0.8
+   COOL_UNDUCTED:              False
+   SUBTYPE:                    Split
+   NUM_ZONES:                  NULL
+   FL_ADDITION:                NULL
+   DESCP:                      NULL
+   BLOCK_ID:                   1
+   MULTIPLE_SYSTEM:            False
+   GSHP_ENTRY_TYPE:            NULL
+   PUMP_CURRENT:               NULL
+   PUMP_VOLTAGE:               NULL
+   PUMP_POWER:                 NULL
+   AHRI_NUMBER:                0
+   INDOOR_MODEL_NUMBER:        
+   ENTERING_AIR_DBTEMP_COOL:   75
+   ENTERING_AIR_WBTEMP_COOL:   62.5
+   BLOWER_CFM:                 1600
+   OEM_DESIGN_COND_CAP_TOTAL:  48
+   FAN_SPEED:                  Low
+   OEM_DESIGN_COND_CAP_SENS:   40
+   BLOWER_ESP:                 0.6
+   COMPRESSOR_TYPE:            Single-Speed
+   FAN_TYPE:                   PSC/Constant Torque
+   BLOWER_CFM_COOL_MANUALS:    1600
+   CHILLER_CAP:                NULL
+   CHILLER_POWER:              NULL
+   CHILLER_PUMP_FAN_POWER:     NULL
+   CHILLER_DWELLING_POWER:     NULL
+   CHILLER_NUM_UNITS:          NULL
+   WLHP_CAP:                   NULL
+   WLHP_EER:                   NULL
+   WLHP_NUM_UNITS:             NULL
+   WLHP_PUMP_FAN_POWER:        NULL
+   FILTER_METRIC:              NULL
+   OEM_SUBCOOL_TARGET:         NULL
+   SEER2:                      17
+   EER2:                       NULL
+   SEERorSEER2:                SEER
+   HSPForHSPF2:                NULL
+   SEER:                       13
+
+   [Cooling 2]
+   BUILDING_TYPE:              User
+   HVAC_ID:                    2
+   TYPE:                       Central Unit
+   REG_ID:                     0
+   NUM_UNITS:                  NULL
+   CAP:                        42
+   EFF:                        14
+   FUEL_TYPE:                  Electric
+   SENSIBLE_HEAT_RATIO:        0.85
+   COIL_CFM:                   1400
+   EVAP_EFF:                   0.85
+   EVAP_COIL_CFM:              3500
+   EVAP_FAN_POWER:             0.0002
+   MANUFACTURER:               
+   MODEL_NUMBER:               
+   EVAP_COND_EFF:              0.8
+   COOL_UNDUCTED:              False
+   SUBTYPE:                    Split
+   NUM_ZONES:                  NULL
+   FL_ADDITION:                NULL
+   DESCP:                      NULL
+   BLOCK_ID:                   2
+   MULTIPLE_SYSTEM:            False
+   GSHP_ENTRY_TYPE:            NULL
+   PUMP_CURRENT:               NULL
+   PUMP_VOLTAGE:               NULL
+   PUMP_POWER:                 NULL
+   AHRI_NUMBER:                0
+   INDOOR_MODEL_NUMBER:        
+   ENTERING_AIR_DBTEMP_COOL:   75
+   ENTERING_AIR_WBTEMP_COOL:   62.5
+   BLOWER_CFM:                 1400
+   OEM_DESIGN_COND_CAP_TOTAL:  42
+   FAN_SPEED:                  High
+   OEM_DESIGN_COND_CAP_SENS:   39
+   BLOWER_ESP:                 0.6
+   COMPRESSOR_TYPE:            Single-Speed
+   FAN_TYPE:                   ECM/Variable Speed
+   BLOWER_CFM_COOL_MANUALS:    1400
+   CHILLER_CAP:                NULL
+   CHILLER_POWER:              NULL
+   CHILLER_PUMP_FAN_POWER:     NULL
+   CHILLER_DWELLING_POWER:     NULL
+   CHILLER_NUM_UNITS:          NULL
+   WLHP_CAP:                   NULL
+   WLHP_EER:                   NULL
+   WLHP_NUM_UNITS:             NULL
+   WLHP_PUMP_FAN_POWER:        NULL
+   FILTER_METRIC:              NULL
+   OEM_SUBCOOL_TARGET:         NULL
+   SEER2:                      NULL
+   EER2:                       NULL
+   SEERorSEER2:                SEER
+   HSPForHSPF2:                NULL
+   SEER:                       14
+
+[Heating Data]
+RECORDS:                       2
+FIELDS:                        53
+
+   [Heating 1]
+   BUILDING_TYPE:              User
+   HVAC_ID:                    1
+   REG_ID:                     0
+   TYPE:                       Natural Gas Furnace
+   NUM_UNITS:                  NULL
+   CAP:                        90
+   EFF:                        0.96
+   FUEL_TYPE:                  Natural Gas
+   MANUFACTURER:               
+   MODEL_NUMBER:               
+   HEAT_UNDUCTED:              False
+   SUBTYPE:                    None
+   NUM_ZONES:                  NULL
+   FL_ADDITION:                NULL
+   DESCP:                      NULL
+   BLOCK_ID:                   1
+   MULTIPLE_SYSTEM:            False
+   AHRI_NUMBER:                0
+   INDOOR_MODEL_NUMBER:        
+   AHRI_HEATPUMP_CAP_47:       NULL
+   AHRI_HEATPUMP_CAP_17:       NULL
+   ENTERING_AIR_TEMP_HEATING:  69.7
+   BLOWER_CFM:                 3000
+   OEM_DESIGN_CONDITION_CAP:   90
+   FAN_SPEED:                  High
+   BLOWER_ESP:                 0.6
+   Supplemental_Heat:          NULL
+   Geo_GPM:                    NULL
+   Geo_MIN_WATER_TEMP:         NULL
+   Geo_MAX_WATER_TEMP:         NULL
+   USE_FURN_CAP_AT_ALT:        N
+   OEM_FURN_IN_CAP_AT_SEA:     NULL
+   OEM_FURN_OUT_CAP_AT_SEA:    90
+   OEM_FURN_IN_CAP_AT_ALT:     NULL
+   OEM_FURN_OUT_CAP_AT_ALT:    NULL
+   OEM_FURN_STEADY_STATE:      NULL
+   OEM_FURN_DERATE_FACTOR:     NULL
+   OEM_FURN_TEMP_RISE:         NULL
+   OEM_FURN_BLOWER_CFM:        NULL
+   COMPRESSOR_TYPE:            Single-Speed
+   FAN_TYPE:                   PSC/Constant Torque
+   BLOWER_CFM_HEAT_MANUALS:    3000
+   HYDRONIC_R:                 None
+   FILTER_METRIC:              NULL
+   CAP_TYPE:                   NULL
+   VENT_TYPE:                  NULL
+   OEM_MAX_HP_CAP:             NULL
+   OEM_MIN_HP_CAP:             NULL
+   Paired_With_Cooling:        No
+   HSPF2:                      NULL
+   HSPForHSPF2:                HSPF
+   HSPF:                       NULL
+
+   [Heating 2]
+   BUILDING_TYPE:              User
+   HVAC_ID:                    2
+   REG_ID:                     0
+   TYPE:                       Natural Gas Furnace
+   NUM_UNITS:                  NULL
+   CAP:                        75
+   EFF:                        0.8
+   FUEL_TYPE:                  Natural Gas
+   MANUFACTURER:               
+   MODEL_NUMBER:               
+   HEAT_UNDUCTED:              False
+   SUBTYPE:                    None
+   NUM_ZONES:                  NULL
+   FL_ADDITION:                NULL
+   DESCP:                      NULL
+   BLOCK_ID:                   2
+   MULTIPLE_SYSTEM:            False
+   AHRI_NUMBER:                0
+   INDOOR_MODEL_NUMBER:        
+   AHRI_HEATPUMP_CAP_47:       NULL
+   AHRI_HEATPUMP_CAP_17:       NULL
+   ENTERING_AIR_TEMP_HEATING:  69.7
+   BLOWER_CFM:                 1600
+   OEM_DESIGN_CONDITION_CAP:   60
+   FAN_SPEED:                  High
+   BLOWER_ESP:                 0.6
+   Supplemental_Heat:          NULL
+   Geo_GPM:                    NULL
+   Geo_MIN_WATER_TEMP:         NULL
+   Geo_MAX_WATER_TEMP:         NULL
+   USE_FURN_CAP_AT_ALT:        N
+   OEM_FURN_IN_CAP_AT_SEA:     NULL
+   OEM_FURN_OUT_CAP_AT_SEA:    60
+   OEM_FURN_IN_CAP_AT_ALT:     NULL
+   OEM_FURN_OUT_CAP_AT_ALT:    52
+   OEM_FURN_STEADY_STATE:      NULL
+   OEM_FURN_DERATE_FACTOR:     NULL
+   OEM_FURN_TEMP_RISE:         48.4
+   OEM_FURN_BLOWER_CFM:        1000
+   COMPRESSOR_TYPE:            Single-Speed
+   FAN_TYPE:                   ECM/Variable Speed
+   BLOWER_CFM_HEAT_MANUALS:    1600
+   HYDRONIC_R:                 None
+   FILTER_METRIC:              NULL
+   CAP_TYPE:                   NULL
+   VENT_TYPE:                  NULL
+   OEM_MAX_HP_CAP:             NULL
+   OEM_MIN_HP_CAP:             NULL
+   Paired_With_Cooling:        No
+   HSPF2:                      NULL
+   HSPForHSPF2:                HSPF
+   HSPF:                       NULL
+
+[Duct Data]
+RECORDS:                       2
+FIELDS:                        80
+
+   [Duct 1]
+   BUILDING_TYPE:              User
+   HVAC_ID:                    1
+   REG_ID:                     0
+   RETURN_DUCT_LOC:            Basement Center
+   SUPPLY_DUCT_LOC:            Basement Center
+   SUPPLY_DUCT_R_VALUE:        6
+   SUPPLY_DUCT_LENGTH:         NULL
+   DMS:                        NULL
+   DMW:                        NULL
+   USE_EFFICIENCY:             0.879999995231628
+   RETURN_DUCT_R_VALUE:        6
+   SUPPLY_DUCT_AREA:           455.6
+   RETURN_DUCT_AREA:           113.9
+   LEAKAGE_TYPE:               Default Leakage
+   DUCT_AIR_LOSS:              0
+   CFM25:                      0
+   AHU_LEAK_FRACTION:          0.05
+   TESTED_QN:                  0
+   LEAK_PERCENT:               0
+   HERS_LEAKAGE:               Y
+   LEAK_FREE:                  N
+   VISIBLE_DUCT_DISCONNECTS:   N
+   PROPOSED_QN:                0
+   PROPOSED_LEAKAGE:           N
+   RETURN_LEAK_FRAC:           0.5
+   CFM50_SEALED_DUCTS:         NULL
+   DUCTS_TO_OUT_P:             NULL
+   FLR_DUCT_LEAKAGE_TYPE:      NULL
+   FLR_TESTED_CFM25_TOT:       NULL
+   FLR_TESTED_CFM25_OUT:       NULL
+   LEAK_FREE_AHU:              N
+   COOLING_SYSTEM_SERVED:      1 - Central Unit
+   HEATING_SYSTEM_SERVED:      1 - Natural Gas Furnace
+   BLOWER_LOAD:                NULL
+   FL_ADDITION:                NULL
+   DUCT_DESC:                  NULL
+   NUM_RETURNS:                NULL
+   SUPPLY_DUCT_ROOM_ID:        1
+   RETURN_DUCT_ROOM_ID:        1
+   AIR_HANDLER_ROOM_ID:        1
+   AIR_HANDLER_LOC:            Basement Center
+   MULTIPLE_SYSTEM:            False
+   Proposed_Qn_tot:            NULL
+   CPL_DERCoil:                NULL
+   CPL_ERHCoil:                NULL
+   CPL_HWCoil:                 NULL
+   CPL_HeatEX:                 NULL
+   CPL_LowEffFilter:           NULL
+   CPL_MIDEffFilter:           NULL
+   CPL_ElecFilter:             NULL
+   CPL_Humidifier:             NULL
+   CPL_SupplyOutlet:           NULL
+   CPL_ReturnGrille:           NULL
+   CPL_BalancingDamper:        NULL
+   CPL_UVLights:               NULL
+   CPL_Other:                  NULL
+   OEM_BLOWER_CFM:             NULL
+   AHU_INSTALLED:              Yes
+   ARE_DUCTS_BURIED:           Standard
+   CPL_Transfer:               NULL
+   RATERPRO_XML_CFA:           NULL
+   PRE_DRYWALL_ALL_COND:       N
+   FINAL_ALL_COND:             N
+   PRE_DRYWALL_NO_CAVITIES:    N
+   Testedcfmout:               Y
+   Testedcfmtot:               Y
+   PCTDuctAreaCond:            NULL
+   TEST_ATTIC_HATCH:           NULL
+   TEST_CRAWL_HATCH:           NULL
+   TEST_BSMT_HATCH:            NULL
+   CALCULATED_FRICTION_RATE:   NULL
+   TOTAL_CPL:                  NULL
+   CALCULATED_TEL:             NULL
+   TEST_EXCEPTION_TYPE:        Select one
+   ROUGHIN_OR_FINAL:           NULL
+   LENGTH_LESS_THAN_10_FT:     No
+   TOTAL_DUCT_LEAKAGE_GRADE:   III
+   DUCT_AIR_LOSS_TOTAL:        NULL
+   KMBlock_ID:                 1
+
+   [Duct 2]
+   BUILDING_TYPE:              User
+   HVAC_ID:                    2
+   REG_ID:                     0
+   RETURN_DUCT_LOC:            Attic
+   SUPPLY_DUCT_LOC:            Attic
+   SUPPLY_DUCT_R_VALUE:        6
+   SUPPLY_DUCT_LENGTH:         NULL
+   DMS:                        NULL
+   DMW:                        NULL
+   USE_EFFICIENCY:             0.879999995231628
+   RETURN_DUCT_R_VALUE:        6
+   SUPPLY_DUCT_AREA:           269.275
+   RETURN_DUCT_AREA:           67.31875
+   LEAKAGE_TYPE:               Default Leakage
+   DUCT_AIR_LOSS:              0
+   CFM25:                      0
+   AHU_LEAK_FRACTION:          0.05
+   TESTED_QN:                  0
+   LEAK_PERCENT:               0
+   HERS_LEAKAGE:               Y
+   LEAK_FREE:                  N
+   VISIBLE_DUCT_DISCONNECTS:   N
+   PROPOSED_QN:                0
+   PROPOSED_LEAKAGE:           N
+   RETURN_LEAK_FRAC:           0.5
+   CFM50_SEALED_DUCTS:         NULL
+   DUCTS_TO_OUT_P:             NULL
+   FLR_DUCT_LEAKAGE_TYPE:      NULL
+   FLR_TESTED_CFM25_TOT:       NULL
+   FLR_TESTED_CFM25_OUT:       NULL
+   LEAK_FREE_AHU:              N
+   COOLING_SYSTEM_SERVED:      2 - Central Unit
+   HEATING_SYSTEM_SERVED:      2 - Natural Gas Furnace
+   BLOWER_LOAD:                NULL
+   FL_ADDITION:                NULL
+   DUCT_DESC:                  NULL
+   NUM_RETURNS:                NULL
+   SUPPLY_DUCT_ROOM_ID:        0
+   RETURN_DUCT_ROOM_ID:        0
+   AIR_HANDLER_ROOM_ID:        0
+   AIR_HANDLER_LOC:            Attic
+   MULTIPLE_SYSTEM:            False
+   Proposed_Qn_tot:            NULL
+   CPL_DERCoil:                NULL
+   CPL_ERHCoil:                NULL
+   CPL_HWCoil:                 NULL
+   CPL_HeatEX:                 NULL
+   CPL_LowEffFilter:           NULL
+   CPL_MIDEffFilter:           NULL
+   CPL_ElecFilter:             NULL
+   CPL_Humidifier:             NULL
+   CPL_SupplyOutlet:           NULL
+   CPL_ReturnGrille:           NULL
+   CPL_BalancingDamper:        NULL
+   CPL_UVLights:               NULL
+   CPL_Other:                  NULL
+   OEM_BLOWER_CFM:             NULL
+   AHU_INSTALLED:              Yes
+   ARE_DUCTS_BURIED:           Standard
+   CPL_Transfer:               NULL
+   RATERPRO_XML_CFA:           NULL
+   PRE_DRYWALL_ALL_COND:       N
+   FINAL_ALL_COND:             N
+   PRE_DRYWALL_NO_CAVITIES:    N
+   Testedcfmout:               Y
+   Testedcfmtot:               Y
+   PCTDuctAreaCond:            NULL
+   TEST_ATTIC_HATCH:           NULL
+   TEST_CRAWL_HATCH:           NULL
+   TEST_BSMT_HATCH:            NULL
+   CALCULATED_FRICTION_RATE:   NULL
+   TOTAL_CPL:                  NULL
+   CALCULATED_TEL:             NULL
+   TEST_EXCEPTION_TYPE:        Select one
+   ROUGHIN_OR_FINAL:           NULL
+   LENGTH_LESS_THAN_10_FT:     No
+   TOTAL_DUCT_LEAKAGE_GRADE:   III
+   DUCT_AIR_LOSS_TOTAL:        NULL
+   KMBlock_ID:                 2
+
+[DuctRuns Data]
+RECORDS:                       0
+FIELDS:                        166
+
+[DuctSupplySpaces Data]
+RECORDS:                       6
+FIELDS:                        27
+
+   [DuctSupplySpaces 1]
+   BUILDING_TYPE:              User
+   ROOM_ID:                    13
+   PATH_Number:                1
+   ROOM_NAME:                  Up Bathroom
+   TreeNode_Name:              SB Up Bathroom(1)
+   BLOCK_ID:                   2
+   BLOCK_NAME:                 Attic Handler
+   SupplyGroup_Name:           S13
+   UpstreamST:                 ST2
+   COOLING_SYSTEM_A:           2
+   HEATING_SYSTEM_A:           2
+   ZONES_UPDATED:              NULL
+   COOLED:                     Yes
+   HEATED:                     Yes
+   CONDITIONED:                Yes
+   ROOM_LOAD_COOLING:          NULL
+   ROOM_LOAD_HEATING:          NULL
+   SPACE_LOAD_COOLING:         NULL
+   SPACE_LOAD_HEATING:         NULL
+   Duct_Material:              Flex Duct
+   Supply_Uses_This_Return:    RB1()
+   DUCT_SYSTEM_ID:             2
+   PATHS_TO_ROOM:              1
+   REGISTERS_THIS_PATH:        1
+   SHORTNODE_NAME:             (Up Bathroom)
+   Duct_Roughness:             1.76
+
+   [DuctSupplySpaces 2]
+   BUILDING_TYPE:              User
+   ROOM_ID:                    15
+   PATH_Number:                1
+   ROOM_NAME:                  Up Front Bedroom
+   TreeNode_Name:              SB Up Front Bedroom(1)
+   BLOCK_ID:                   2
+   BLOCK_NAME:                 Attic Handler
+   SupplyGroup_Name:           S15
+   UpstreamST:                 ST2
+   COOLING_SYSTEM_A:           2
+   HEATING_SYSTEM_A:           2
+   ZONES_UPDATED:              NULL
+   COOLED:                     Yes
+   HEATED:                     Yes
+   CONDITIONED:                Yes
+   ROOM_LOAD_COOLING:          NULL
+   ROOM_LOAD_HEATING:          NULL
+   SPACE_LOAD_COOLING:         NULL
+   SPACE_LOAD_HEATING:         NULL
+   Duct_Material:              Flex Duct
+   Supply_Uses_This_Return:    RB1()
+   DUCT_SYSTEM_ID:             2
+   PATHS_TO_ROOM:              1
+   REGISTERS_THIS_PATH:        1
+   SHORTNODE_NAME:             (Up Front Bedroom)
+   Duct_Roughness:             1.76
+
+   [DuctSupplySpaces 3]
+   BUILDING_TYPE:              User
+   ROOM_ID:                    16
+   PATH_Number:                1
+   ROOM_NAME:                  Gameroom
+   TreeNode_Name:              SB Gameroom(1)
+   BLOCK_ID:                   2
+   BLOCK_NAME:                 Attic Handler
+   SupplyGroup_Name:           S16
+   UpstreamST:                 ST5
+   COOLING_SYSTEM_A:           2
+   HEATING_SYSTEM_A:           2
+   ZONES_UPDATED:              NULL
+   COOLED:                     Yes
+   HEATED:                     Yes
+   CONDITIONED:                Yes
+   ROOM_LOAD_COOLING:          NULL
+   ROOM_LOAD_HEATING:          NULL
+   SPACE_LOAD_COOLING:         NULL
+   SPACE_LOAD_HEATING:         NULL
+   Duct_Material:              Flex Duct
+   Supply_Uses_This_Return:    RB1()
+   DUCT_SYSTEM_ID:             2
+   PATHS_TO_ROOM:              3
+   REGISTERS_THIS_PATH:        1
+   SHORTNODE_NAME:             (Gameroom)(1)
+   Duct_Roughness:             1.76
+
+   [DuctSupplySpaces 4]
+   BUILDING_TYPE:              User
+   ROOM_ID:                    16
+   PATH_Number:                2
+   ROOM_NAME:                  Gameroom
+   TreeNode_Name:              SB Gameroom(2)
+   BLOCK_ID:                   2
+   BLOCK_NAME:                 Attic Handler
+   SupplyGroup_Name:           S16
+   UpstreamST:                 ST5
+   COOLING_SYSTEM_A:           2
+   HEATING_SYSTEM_A:           2
+   ZONES_UPDATED:              NULL
+   COOLED:                     Yes
+   HEATED:                     Yes
+   CONDITIONED:                Yes
+   ROOM_LOAD_COOLING:          NULL
+   ROOM_LOAD_HEATING:          NULL
+   SPACE_LOAD_COOLING:         NULL
+   SPACE_LOAD_HEATING:         NULL
+   Duct_Material:              Flex Duct
+   Supply_Uses_This_Return:    RB1()
+   DUCT_SYSTEM_ID:             2
+   PATHS_TO_ROOM:              3
+   REGISTERS_THIS_PATH:        1
+   SHORTNODE_NAME:             (Gameroom)(2)
+   Duct_Roughness:             1.76
+
+   [DuctSupplySpaces 5]
+   BUILDING_TYPE:              User
+   ROOM_ID:                    19
+   PATH_Number:                1
+   ROOM_NAME:                  Up Back Bedroom
+   TreeNode_Name:              SB Up Back Bedroom(1)
+   BLOCK_ID:                   2
+   BLOCK_NAME:                 Attic Handler
+   SupplyGroup_Name:           S19
+   UpstreamST:                 ST6
+   COOLING_SYSTEM_A:           2
+   HEATING_SYSTEM_A:           2
+   ZONES_UPDATED:              NULL
+   COOLED:                     Yes
+   HEATED:                     Yes
+   CONDITIONED:                Yes
+   ROOM_LOAD_COOLING:          NULL
+   ROOM_LOAD_HEATING:          NULL
+   SPACE_LOAD_COOLING:         NULL
+   SPACE_LOAD_HEATING:         NULL
+   Duct_Material:              Flex Duct
+   Supply_Uses_This_Return:    RB2()
+   DUCT_SYSTEM_ID:             2
+   PATHS_TO_ROOM:              2
+   REGISTERS_THIS_PATH:        1
+   SHORTNODE_NAME:             (Up Back Bedroom)(1)
+   Duct_Roughness:             1.76
+
+   [DuctSupplySpaces 6]
+   BUILDING_TYPE:              User
+   ROOM_ID:                    19
+   PATH_Number:                2
+   ROOM_NAME:                  Up Back Bedroom
+   TreeNode_Name:              SB Up Back Bedroom(2)
+   BLOCK_ID:                   2
+   BLOCK_NAME:                 Attic Handler
+   SupplyGroup_Name:           S19
+   UpstreamST:                 ST6
+   COOLING_SYSTEM_A:           2
+   HEATING_SYSTEM_A:           2
+   ZONES_UPDATED:              NULL
+   COOLED:                     Yes
+   HEATED:                     Yes
+   CONDITIONED:                Yes
+   ROOM_LOAD_COOLING:          NULL
+   ROOM_LOAD_HEATING:          NULL
+   SPACE_LOAD_COOLING:         NULL
+   SPACE_LOAD_HEATING:         NULL
+   Duct_Material:              Flex Duct
+   Supply_Uses_This_Return:    RB1()
+   DUCT_SYSTEM_ID:             2
+   PATHS_TO_ROOM:              2
+   REGISTERS_THIS_PATH:        1
+   SHORTNODE_NAME:             (Up Back Bedroom)(2)
+   Duct_Roughness:             1.76
+
+[SmartVent Data]
+RECORDS:                       0
+FIELDS:                        12
+
+[Water Data]
+RECORDS:                       0
+FIELDS:                        67
+
+[Thermostat Schedule Change Data]
+RECORDS:                       1
+FIELDS:                        5
+
+   [Thermostat Schedule Change 1]
+   Title:                      HERS 2006 Reference
+   Date:                       11/15/2005
+   Time:                       9:00:00 AM
+   Comments:                   
+   Custom:                     N
+
+[Thermostat Schedule Data]
+RECORDS:                       4
+FIELDS:                        28
+
+   [Thermostat Schedule 1]
+   SavedScheduleName:          HERS 2006 Reference
+   ScheduleName:               Cooling (WD)
+   Hour1:                      78
+   Hour2:                      78
+   Hour3:                      78
+   Hour4:                      78
+   Hour5:                      78
+   Hour6:                      78
+   Hour7:                      78
+   Hour8:                      78
+   Hour9:                      78
+   Hour10:                     78
+   Hour11:                     78
+   Hour12:                     78
+   Hour13:                     78
+   Hour14:                     78
+   Hour15:                     78
+   Hour16:                     78
+   Hour17:                     78
+   Hour18:                     78
+   Hour19:                     78
+   Hour20:                     78
+   Hour21:                     78
+   Hour22:                     78
+   Hour23:                     78
+   Hour24:                     78
+   SavedScheduleComment:       Cooling Weekday Schedule
+   ThermostatSchedule Source:  
+
+   [Thermostat Schedule 2]
+   SavedScheduleName:          HERS 2006 Reference
+   ScheduleName:               Cooling (WEH)
+   Hour1:                      78
+   Hour2:                      78
+   Hour3:                      78
+   Hour4:                      78
+   Hour5:                      78
+   Hour6:                      78
+   Hour7:                      78
+   Hour8:                      78
+   Hour9:                      78
+   Hour10:                     78
+   Hour11:                     78
+   Hour12:                     78
+   Hour13:                     78
+   Hour14:                     78
+   Hour15:                     78
+   Hour16:                     78
+   Hour17:                     78
+   Hour18:                     78
+   Hour19:                     78
+   Hour20:                     78
+   Hour21:                     78
+   Hour22:                     78
+   Hour23:                     78
+   Hour24:                     78
+   SavedScheduleComment:       Cooling Weekend and Holidays
+   ThermostatSchedule Source:  
+
+   [Thermostat Schedule 3]
+   SavedScheduleName:          HERS 2006 Reference
+   ScheduleName:               Heating (WD)
+   Hour1:                      68
+   Hour2:                      68
+   Hour3:                      68
+   Hour4:                      68
+   Hour5:                      68
+   Hour6:                      68
+   Hour7:                      68
+   Hour8:                      68
+   Hour9:                      68
+   Hour10:                     68
+   Hour11:                     68
+   Hour12:                     68
+   Hour13:                     68
+   Hour14:                     68
+   Hour15:                     68
+   Hour16:                     68
+   Hour17:                     68
+   Hour18:                     68
+   Hour19:                     68
+   Hour20:                     68
+   Hour21:                     68
+   Hour22:                     68
+   Hour23:                     68
+   Hour24:                     68
+   SavedScheduleComment:       Heating Weekday Schedule
+   ThermostatSchedule Source:  
+
+   [Thermostat Schedule 4]
+   SavedScheduleName:          HERS 2006 Reference
+   ScheduleName:               Heating (WEH)
+   Hour1:                      68
+   Hour2:                      68
+   Hour3:                      68
+   Hour4:                      68
+   Hour5:                      68
+   Hour6:                      68
+   Hour7:                      68
+   Hour8:                      68
+   Hour9:                      68
+   Hour10:                     68
+   Hour11:                     68
+   Hour12:                     68
+   Hour13:                     68
+   Hour14:                     68
+   Hour15:                     68
+   Hour16:                     68
+   Hour17:                     68
+   Hour18:                     68
+   Hour19:                     68
+   Hour20:                     68
+   Hour21:                     68
+   Hour22:                     68
+   Hour23:                     68
+   Hour24:                     68
+   SavedScheduleComment:       Heating Weekend and Holidays
+   ThermostatSchedule Source:  
+
+[Temperature Data]
+RECORDS:                       4
+FIELDS:                        33
+
+   [Temperature 1]
+   BUILDING_TYPE:              User
+   TEMP_ID:                    1
+   REG_ID:                     0
+   NAME:                       HERS 2006 Reference
+   DESCP:                      EnergyGauge Default
+   TYPE:                       Cooling (WD)
+   HOUR_1:                     78
+   HOUR_2:                     78
+   HOUR_3:                     78
+   HOUR_4:                     78
+   HOUR_5:                     78
+   HOUR_6:                     78
+   HOUR_7:                     78
+   HOUR_8:                     78
+   HOUR_9:                     78
+   HOUR_10:                    78
+   HOUR_11:                    78
+   HOUR_12:                    78
+   HOUR_13:                    78
+   HOUR_14:                    78
+   HOUR_15:                    78
+   HOUR_16:                    78
+   HOUR_17:                    78
+   HOUR_18:                    78
+   HOUR_19:                    78
+   HOUR_20:                    78
+   HOUR_21:                    78
+   HOUR_22:                    78
+   HOUR_23:                    78
+   HOUR_24:                    78
+   PROGRAMMABLE:               N
+   CEILING_FAN:                NULL
+
+   [Temperature 2]
+   BUILDING_TYPE:              User
+   TEMP_ID:                    2
+   REG_ID:                     0
+   NAME:                       HERS 2006 Reference
+   DESCP:                      EnergyGauge Default
+   TYPE:                       Cooling (WEH)
+   HOUR_1:                     78
+   HOUR_2:                     78
+   HOUR_3:                     78
+   HOUR_4:                     78
+   HOUR_5:                     78
+   HOUR_6:                     78
+   HOUR_7:                     78
+   HOUR_8:                     78
+   HOUR_9:                     78
+   HOUR_10:                    78
+   HOUR_11:                    78
+   HOUR_12:                    78
+   HOUR_13:                    78
+   HOUR_14:                    78
+   HOUR_15:                    78
+   HOUR_16:                    78
+   HOUR_17:                    78
+   HOUR_18:                    78
+   HOUR_19:                    78
+   HOUR_20:                    78
+   HOUR_21:                    78
+   HOUR_22:                    78
+   HOUR_23:                    78
+   HOUR_24:                    78
+   PROGRAMMABLE:               N
+   CEILING_FAN:                NULL
+
+   [Temperature 3]
+   BUILDING_TYPE:              User
+   TEMP_ID:                    3
+   REG_ID:                     0
+   NAME:                       HERS 2006 Reference
+   DESCP:                      EnergyGauge Default
+   TYPE:                       Heating (WD)
+   HOUR_1:                     68
+   HOUR_2:                     68
+   HOUR_3:                     68
+   HOUR_4:                     68
+   HOUR_5:                     68
+   HOUR_6:                     68
+   HOUR_7:                     68
+   HOUR_8:                     68
+   HOUR_9:                     68
+   HOUR_10:                    68
+   HOUR_11:                    68
+   HOUR_12:                    68
+   HOUR_13:                    68
+   HOUR_14:                    68
+   HOUR_15:                    68
+   HOUR_16:                    68
+   HOUR_17:                    68
+   HOUR_18:                    68
+   HOUR_19:                    68
+   HOUR_20:                    68
+   HOUR_21:                    68
+   HOUR_22:                    68
+   HOUR_23:                    68
+   HOUR_24:                    68
+   PROGRAMMABLE:               N
+   CEILING_FAN:                NULL
+
+   [Temperature 4]
+   BUILDING_TYPE:              User
+   TEMP_ID:                    4
+   REG_ID:                     0
+   NAME:                       HERS 2006 Reference
+   DESCP:                      EnergyGauge Default
+   TYPE:                       Heating (WEH)
+   HOUR_1:                     68
+   HOUR_2:                     68
+   HOUR_3:                     68
+   HOUR_4:                     68
+   HOUR_5:                     68
+   HOUR_6:                     68
+   HOUR_7:                     68
+   HOUR_8:                     68
+   HOUR_9:                     68
+   HOUR_10:                    68
+   HOUR_11:                    68
+   HOUR_12:                    68
+   HOUR_13:                    68
+   HOUR_14:                    68
+   HOUR_15:                    68
+   HOUR_16:                    68
+   HOUR_17:                    68
+   HOUR_18:                    68
+   HOUR_19:                    68
+   HOUR_20:                    68
+   HOUR_21:                    68
+   HOUR_22:                    68
+   HOUR_23:                    68
+   HOUR_24:                    68
+   PROGRAMMABLE:               N
+   CEILING_FAN:                NULL
+
+[Appliance Schedule Change Data]
+RECORDS:                       1
+FIELDS:                        5
+
+   [Appliance Schedule Change 1]
+   Title:                      HERS 2006 Reference
+   Date:                       9/6/2005
+   Time:                       8:32:37 AM
+   Comments:                   HERS 2006 Reference schedule
+   Custom:                     N
+
+[Appliance Schedule Data]
+RECORDS:                       10
+FIELDS:                        38
+
+   [Appliance Schedule 1]
+   SavedScheduleName:          HERS 2006 Reference
+   ApplianceName:              Ceiling Fans (Summer)
+   AnnualUse:                  0
+   AnnualUseUnits:             kWh/Yr
+   PeakHourDemand:             0
+   PeakHourUnits:              Watts
+   PercentReleasedInside:      100
+   Hour1:                      0.65
+   Hour2:                      0.65
+   Hour3:                      0.65
+   Hour4:                      0.65
+   Hour5:                      0.65
+   Hour6:                      0.65
+   Hour7:                      0.65
+   Hour8:                      0.33
+   Hour9:                      0.33
+   Hour10:                     0.33
+   Hour11:                     0.33
+   Hour12:                     0.33
+   Hour13:                     0.33
+   Hour14:                     0.33
+   Hour15:                     0.33
+   Hour16:                     0.33
+   Hour17:                     0.33
+   Hour18:                     1
+   Hour19:                     0.9
+   Hour20:                     0.9
+   Hour21:                     0.9
+   Hour22:                     0.9
+   Hour23:                     0.9
+   Hour24:                     0.65
+   SavedScheduleComment:       
+   ApplianceSchedule Source:   
+   a_Coeff:                    NULL
+   b_Coeff:                    NULL
+   c_Coeff:                    NULL
+   Latent:                     NULL
+   SortByForInputSummary:      NULL
+
+   [Appliance Schedule 2]
+   SavedScheduleName:          HERS 2006 Reference
+   ApplianceName:              Clothes Washer
+   AnnualUse:                  0
+   AnnualUseUnits:             kWh/Yr
+   PeakHourDemand:             0
+   PeakHourUnits:              Watts
+   PercentReleasedInside:      60
+   Hour1:                      0.1047
+   Hour2:                      0.0814
+   Hour3:                      0.0465
+   Hour4:                      0.0465
+   Hour5:                      0.0814
+   Hour6:                      0.1279
+   Hour7:                      0.2558
+   Hour8:                      0.5698
+   Hour9:                      0.8488
+   Hour10:                     1
+   Hour11:                     0.9767
+   Hour12:                     0.8721
+   Hour13:                     0.7791
+   Hour14:                     0.6977
+   Hour15:                     0.6047
+   Hour16:                     0.5698
+   Hour17:                     0.5814
+   Hour18:                     0.5698
+   Hour19:                     0.5698
+   Hour20:                     0.5698
+   Hour21:                     0.5698
+   Hour22:                     0.4884
+   Hour23:                     0.4302
+   Hour24:                     0.1977
+   SavedScheduleComment:       
+   ApplianceSchedule Source:   
+   a_Coeff:                    NULL
+   b_Coeff:                    NULL
+   c_Coeff:                    NULL
+   Latent:                     NULL
+   SortByForInputSummary:      NULL
+
+   [Appliance Schedule 3]
+   SavedScheduleName:          HERS 2006 Reference
+   ApplianceName:              Dishwasher
+   AnnualUse:                  144.98
+   AnnualUseUnits:             kWh/Yr
+   PeakHourDemand:             44.2
+   PeakHourUnits:              Watts
+   PercentReleasedInside:      60
+   Hour1:                      0.1389
+   Hour2:                      0.0498
+   Hour3:                      0.0281
+   Hour4:                      0.0242
+   Hour5:                      0.0286
+   Hour6:                      0.0904
+   Hour7:                      0.1692
+   Hour8:                      0.3033
+   Hour9:                      0.5409
+   Hour10:                     0.5941
+   Hour11:                     0.5019
+   Hour12:                     0.4427
+   Hour13:                     0.3765
+   Hour14:                     0.3959
+   Hour15:                     0.3345
+   Hour16:                     0.3232
+   Hour17:                     0.3436
+   Hour18:                     0.4483
+   Hour19:                     0.791
+   Hour20:                     1
+   Hour21:                     0.8001
+   Hour22:                     0.5967
+   Hour23:                     0.383
+   Hour24:                     0.2813
+   SavedScheduleComment:       
+   ApplianceSchedule Source:   
+   a_Coeff:                    NULL
+   b_Coeff:                    NULL
+   c_Coeff:                    NULL
+   Latent:                     NULL
+   SortByForInputSummary:      NULL
+
+   [Appliance Schedule 4]
+   SavedScheduleName:          HERS 2006 Reference
+   ApplianceName:              Dryer
+   AnnualUse:                  890.6
+   AnnualUseUnits:             kWh/Yr
+   PeakHourDemand:             200
+   PeakHourUnits:              Watts
+   PercentReleasedInside:      10
+   Hour1:                      0.2
+   Hour2:                      0.1
+   Hour3:                      0.05
+   Hour4:                      0.05
+   Hour5:                      0.05
+   Hour6:                      0.075
+   Hour7:                      0.2
+   Hour8:                      0.375
+   Hour9:                      0.5
+   Hour10:                     0.8
+   Hour11:                     0.95
+   Hour12:                     1
+   Hour13:                     0.875
+   Hour14:                     0.85
+   Hour15:                     0.8
+   Hour16:                     0.625
+   Hour17:                     0.625
+   Hour18:                     0.6
+   Hour19:                     0.575
+   Hour20:                     0.55
+   Hour21:                     0.625
+   Hour22:                     0.7
+   Hour23:                     0.65
+   Hour24:                     0.375
+   SavedScheduleComment:       
+   ApplianceSchedule Source:   DOE/BP-13795-21, Pratt et al., 1989, p. 7-299
+   a_Coeff:                    NULL
+   b_Coeff:                    NULL
+   c_Coeff:                    NULL
+   Latent:                     NULL
+   SortByForInputSummary:      NULL
+
+   [Appliance Schedule 5]
+   SavedScheduleName:          HERS 2006 Reference
+   ApplianceName:              Lighting
+   AnnualUse:                  1001.4
+   AnnualUseUnits:             kWh/Yr
+   PeakHourDemand:             327
+   PeakHourUnits:              Watts
+   PercentReleasedInside:      90
+   Hour1:                      0.16
+   Hour2:                      0.15
+   Hour3:                      0.16
+   Hour4:                      0.18
+   Hour5:                      0.23
+   Hour6:                      0.45
+   Hour7:                      0.4
+   Hour8:                      0.26
+   Hour9:                      0.19
+   Hour10:                     0.16
+   Hour11:                     0.12
+   Hour12:                     0.11
+   Hour13:                     0.16
+   Hour14:                     0.17
+   Hour15:                     0.25
+   Hour16:                     0.27
+   Hour17:                     0.34
+   Hour18:                     0.55
+   Hour19:                     0.55
+   Hour20:                     0.88
+   Hour21:                     1
+   Hour22:                     0.86
+   Hour23:                     0.51
+   Hour24:                     0.28
+   SavedScheduleComment:       
+   ApplianceSchedule Source:   DOE/BP-13795-21, Pratt et. al. 1989, p.7-170
+   a_Coeff:                    NULL
+   b_Coeff:                    NULL
+   c_Coeff:                    NULL
+   Latent:                     NULL
+   SortByForInputSummary:      NULL
+
+   [Appliance Schedule 6]
+   SavedScheduleName:          HERS 2006 Reference
+   ApplianceName:              Miscellaneous
+   AnnualUse:                  2372.1
+   AnnualUseUnits:             kWh/Yr
+   PeakHourDemand:             435
+   PeakHourUnits:              Watts
+   PercentReleasedInside:      90
+   Hour1:                      0.48
+   Hour2:                      0.47
+   Hour3:                      0.47
+   Hour4:                      0.47
+   Hour5:                      0.47
+   Hour6:                      0.47
+   Hour7:                      0.64
+   Hour8:                      0.71
+   Hour9:                      0.67
+   Hour10:                     0.61
+   Hour11:                     0.55
+   Hour12:                     0.53
+   Hour13:                     0.52
+   Hour14:                     0.5
+   Hour15:                     0.5
+   Hour16:                     0.5
+   Hour17:                     0.59
+   Hour18:                     0.73
+   Hour19:                     0.79
+   Hour20:                     0.99
+   Hour21:                     1
+   Hour22:                     0.96
+   Hour23:                     0.77
+   Hour24:                     0.55
+   SavedScheduleComment:       
+   ApplianceSchedule Source:   DOE/BP-13795-21, Pratt et al., 1989, p. 7-144
+   a_Coeff:                    NULL
+   b_Coeff:                    NULL
+   c_Coeff:                    NULL
+   Latent:                     NULL
+   SortByForInputSummary:      NULL
+
+   [Appliance Schedule 7]
+   SavedScheduleName:          HERS 2006 Reference
+   ApplianceName:              Pool Pump
+   AnnualUse:                  0
+   AnnualUseUnits:             kWh/Yr
+   PeakHourDemand:             0
+   PeakHourUnits:              Watts
+   PercentReleasedInside:      0
+   Hour1:                      0
+   Hour2:                      0
+   Hour3:                      0
+   Hour4:                      0
+   Hour5:                      0
+   Hour6:                      0
+   Hour7:                      0
+   Hour8:                      0
+   Hour9:                      0
+   Hour10:                     1
+   Hour11:                     1
+   Hour12:                     1
+   Hour13:                     1
+   Hour14:                     1
+   Hour15:                     1
+   Hour16:                     1
+   Hour17:                     0
+   Hour18:                     0
+   Hour19:                     0
+   Hour20:                     0
+   Hour21:                     0
+   Hour22:                     0
+   Hour23:                     0
+   Hour24:                     0
+   SavedScheduleComment:       
+   ApplianceSchedule Source:   
+   a_Coeff:                    NULL
+   b_Coeff:                    NULL
+   c_Coeff:                    NULL
+   Latent:                     NULL
+   SortByForInputSummary:      NULL
+
+   [Appliance Schedule 8]
+   SavedScheduleName:          HERS 2006 Reference
+   ApplianceName:              Range
+   AnnualUse:                  447.35
+   AnnualUseUnits:             kWh/Yr
+   PeakHourDemand:             165
+   PeakHourUnits:              Watts
+   PercentReleasedInside:      100
+   Hour1:                      0.057
+   Hour2:                      0.057
+   Hour3:                      0.057
+   Hour4:                      0.057
+   Hour5:                      0.057
+   Hour6:                      0.114
+   Hour7:                      0.171
+   Hour8:                      0.286
+   Hour9:                      0.343
+   Hour10:                     0.343
+   Hour11:                     0.343
+   Hour12:                     0.4
+   Hour13:                     0.457
+   Hour14:                     0.343
+   Hour15:                     0.286
+   Hour16:                     0.4
+   Hour17:                     0.571
+   Hour18:                     1
+   Hour19:                     0.857
+   Hour20:                     0.429
+   Hour21:                     0.286
+   Hour22:                     0.229
+   Hour23:                     0.171
+   Hour24:                     0.114
+   SavedScheduleComment:       
+   ApplianceSchedule Source:   DOE/BP-13795-21, Pratt et al., 1989, p. 7-273
+   a_Coeff:                    NULL
+   b_Coeff:                    NULL
+   c_Coeff:                    NULL
+   Latent:                     NULL
+   SortByForInputSummary:      NULL
+
+   [Appliance Schedule 9]
+   SavedScheduleName:          HERS 2006 Reference
+   ApplianceName:              Refrigeration
+   AnnualUse:                  775
+   AnnualUseUnits:             kWh/Yr
+   PeakHourDemand:             140
+   PeakHourUnits:              Watts
+   PercentReleasedInside:      100
+   Hour1:                      0.85
+   Hour2:                      0.78
+   Hour3:                      0.75
+   Hour4:                      0.73
+   Hour5:                      0.73
+   Hour6:                      0.73
+   Hour7:                      0.75
+   Hour8:                      0.75
+   Hour9:                      0.8
+   Hour10:                     0.8
+   Hour11:                     0.8
+   Hour12:                     0.8
+   Hour13:                     0.88
+   Hour14:                     0.85
+   Hour15:                     0.85
+   Hour16:                     0.83
+   Hour17:                     0.88
+   Hour18:                     0.95
+   Hour19:                     1
+   Hour20:                     0.98
+   Hour21:                     0.95
+   Hour22:                     0.93
+   Hour23:                     0.9
+   Hour24:                     0.85
+   SavedScheduleComment:       
+   ApplianceSchedule Source:   DOE/BP-13795-21, Pratt et. al. 1989, p7-196
+   a_Coeff:                    NULL
+   b_Coeff:                    NULL
+   c_Coeff:                    NULL
+   Latent:                     NULL
+   SortByForInputSummary:      NULL
+
+   [Appliance Schedule 10]
+   SavedScheduleName:          HERS 2006 Reference
+   ApplianceName:              Well Pump
+   AnnualUse:                  0
+   AnnualUseUnits:             kWh/Yr
+   PeakHourDemand:             0
+   PeakHourUnits:              Watts
+   PercentReleasedInside:      0
+   Hour1:                      0.05
+   Hour2:                      0.05
+   Hour3:                      0.05
+   Hour4:                      0.05
+   Hour5:                      0.05
+   Hour6:                      0.05
+   Hour7:                      0.1
+   Hour8:                      0.1
+   Hour9:                      0.1
+   Hour10:                     0.1
+   Hour11:                     0.1
+   Hour12:                     0.1
+   Hour13:                     0.1
+   Hour14:                     0.1
+   Hour15:                     0.1
+   Hour16:                     0.1
+   Hour17:                     0.1
+   Hour18:                     0.1
+   Hour19:                     0.1
+   Hour20:                     0.1
+   Hour21:                     0.1
+   Hour22:                     0.1
+   Hour23:                     0.1
+   Hour24:                     0.1
+   SavedScheduleComment:       
+   ApplianceSchedule Source:   
+   a_Coeff:                    NULL
+   b_Coeff:                    NULL
+   c_Coeff:                    NULL
+   Latent:                     NULL
+   SortByForInputSummary:      NULL
+
+[Appliance Data]
+RECORDS:                       10
+FIELDS:                        37
+
+   [Appliance 1]
+   BUILDING_TYPE:              User
+   APPLIANCE_ID:               1
+   REG_ID:                     NULL
+   NAME:                       HERS 2006 Reference
+   DESCP:                      
+   TYPE:                       Ceiling Fans (Summer)
+   HOUR_1:                     0.65
+   HOUR_2:                     0.65
+   HOUR_3:                     0.65
+   HOUR_4:                     0.65
+   HOUR_5:                     0.65
+   HOUR_6:                     0.65
+   HOUR_7:                     0.65
+   HOUR_8:                     0.33
+   HOUR_9:                     0.33
+   HOUR_10:                    0.33
+   HOUR_11:                    0.33
+   HOUR_12:                    0.33
+   HOUR_13:                    0.33
+   HOUR_14:                    0.33
+   HOUR_15:                    0.33
+   HOUR_16:                    0.33
+   HOUR_17:                    0.33
+   HOUR_18:                    1
+   HOUR_19:                    0.9
+   HOUR_20:                    0.9
+   HOUR_21:                    0.9
+   HOUR_22:                    0.9
+   HOUR_23:                    0.9
+   HOUR_24:                    0.65
+   PERCENT_RELEASED:           100
+   ANNUAL_USE:                 0
+   ANNUAL_USE_TYPE:            kWh/Yr
+   Peak_Demand:                0
+   PEAK_DEMAND_TYPE:           Watts
+   APPLIANCE_PRESENT:          N
+
+   [Appliance 2]
+   BUILDING_TYPE:              User
+   APPLIANCE_ID:               2
+   REG_ID:                     NULL
+   NAME:                       HERS 2006 Reference
+   DESCP:                      
+   TYPE:                       Clothes Washer
+   HOUR_1:                     0.1047
+   HOUR_2:                     0.0814
+   HOUR_3:                     0.0465
+   HOUR_4:                     0.0465
+   HOUR_5:                     0.0814
+   HOUR_6:                     0.1279
+   HOUR_7:                     0.2558
+   HOUR_8:                     0.5698
+   HOUR_9:                     0.8488
+   HOUR_10:                    1
+   HOUR_11:                    0.9767
+   HOUR_12:                    0.8721
+   HOUR_13:                    0.7791
+   HOUR_14:                    0.6977
+   HOUR_15:                    0.6047
+   HOUR_16:                    0.5698
+   HOUR_17:                    0.5814
+   HOUR_18:                    0.5698
+   HOUR_19:                    0.5698
+   HOUR_20:                    0.5698
+   HOUR_21:                    0.5698
+   HOUR_22:                    0.4884
+   HOUR_23:                    0.4302
+   HOUR_24:                    0.1977
+   PERCENT_RELEASED:           60
+   ANNUAL_USE:                 0
+   ANNUAL_USE_TYPE:            kWh/Yr
+   Peak_Demand:                0
+   PEAK_DEMAND_TYPE:           Watts
+   APPLIANCE_PRESENT:          N
+
+   [Appliance 3]
+   BUILDING_TYPE:              User
+   APPLIANCE_ID:               3
+   REG_ID:                     NULL
+   NAME:                       HERS 2006 Reference
+   DESCP:                      
+   TYPE:                       Dishwasher
+   HOUR_1:                     0.1389
+   HOUR_2:                     0.0498
+   HOUR_3:                     0.0281
+   HOUR_4:                     0.0242
+   HOUR_5:                     0.0286
+   HOUR_6:                     0.0904
+   HOUR_7:                     0.1692
+   HOUR_8:                     0.3033
+   HOUR_9:                     0.5409
+   HOUR_10:                    0.5941
+   HOUR_11:                    0.5019
+   HOUR_12:                    0.4427
+   HOUR_13:                    0.3765
+   HOUR_14:                    0.3959
+   HOUR_15:                    0.3345
+   HOUR_16:                    0.3232
+   HOUR_17:                    0.3436
+   HOUR_18:                    0.4483
+   HOUR_19:                    0.791
+   HOUR_20:                    1
+   HOUR_21:                    0.8001
+   HOUR_22:                    0.5967
+   HOUR_23:                    0.383
+   HOUR_24:                    0.2813
+   PERCENT_RELEASED:           60
+   ANNUAL_USE:                 0
+   ANNUAL_USE_TYPE:            kWh/Yr
+   Peak_Demand:                0
+   PEAK_DEMAND_TYPE:           Watts
+   APPLIANCE_PRESENT:          N
+
+   [Appliance 4]
+   BUILDING_TYPE:              User
+   APPLIANCE_ID:               4
+   REG_ID:                     NULL
+   NAME:                       HERS 2006 Reference
+   DESCP:                      
+   TYPE:                       Dryer
+   HOUR_1:                     0.2
+   HOUR_2:                     0.1
+   HOUR_3:                     0.05
+   HOUR_4:                     0.05
+   HOUR_5:                     0.05
+   HOUR_6:                     0.075
+   HOUR_7:                     0.2
+   HOUR_8:                     0.375
+   HOUR_9:                     0.5
+   HOUR_10:                    0.8
+   HOUR_11:                    0.95
+   HOUR_12:                    1
+   HOUR_13:                    0.875
+   HOUR_14:                    0.85
+   HOUR_15:                    0.8
+   HOUR_16:                    0.625
+   HOUR_17:                    0.625
+   HOUR_18:                    0.6
+   HOUR_19:                    0.575
+   HOUR_20:                    0.55
+   HOUR_21:                    0.625
+   HOUR_22:                    0.7
+   HOUR_23:                    0.65
+   HOUR_24:                    0.375
+   PERCENT_RELEASED:           10
+   ANNUAL_USE:                 0
+   ANNUAL_USE_TYPE:            kWh/Yr
+   Peak_Demand:                0
+   PEAK_DEMAND_TYPE:           Watts
+   APPLIANCE_PRESENT:          Y
+
+   [Appliance 5]
+   BUILDING_TYPE:              User
+   APPLIANCE_ID:               5
+   REG_ID:                     NULL
+   NAME:                       HERS 2006 Reference
+   DESCP:                      
+   TYPE:                       Lighting
+   HOUR_1:                     0.16
+   HOUR_2:                     0.15
+   HOUR_3:                     0.16
+   HOUR_4:                     0.18
+   HOUR_5:                     0.23
+   HOUR_6:                     0.45
+   HOUR_7:                     0.4
+   HOUR_8:                     0.26
+   HOUR_9:                     0.19
+   HOUR_10:                    0.16
+   HOUR_11:                    0.12
+   HOUR_12:                    0.11
+   HOUR_13:                    0.16
+   HOUR_14:                    0.17
+   HOUR_15:                    0.25
+   HOUR_16:                    0.27
+   HOUR_17:                    0.34
+   HOUR_18:                    0.55
+   HOUR_19:                    0.55
+   HOUR_20:                    0.88
+   HOUR_21:                    1
+   HOUR_22:                    0.86
+   HOUR_23:                    0.51
+   HOUR_24:                    0.28
+   PERCENT_RELEASED:           90
+   ANNUAL_USE:                 2609.19995117188
+   ANNUAL_USE_TYPE:            kWh/Yr
+   Peak_Demand:                852.025329589844
+   PEAK_DEMAND_TYPE:           Watts
+   APPLIANCE_PRESENT:          NULL
+
+   [Appliance 6]
+   BUILDING_TYPE:              User
+   APPLIANCE_ID:               6
+   REG_ID:                     NULL
+   NAME:                       HERS 2006 Reference
+   DESCP:                      
+   TYPE:                       Miscellaneous
+   HOUR_1:                     0.48
+   HOUR_2:                     0.47
+   HOUR_3:                     0.47
+   HOUR_4:                     0.47
+   HOUR_5:                     0.47
+   HOUR_6:                     0.47
+   HOUR_7:                     0.64
+   HOUR_8:                     0.71
+   HOUR_9:                     0.67
+   HOUR_10:                    0.61
+   HOUR_11:                    0.55
+   HOUR_12:                    0.53
+   HOUR_13:                    0.52
+   HOUR_14:                    0.5
+   HOUR_15:                    0.5
+   HOUR_16:                    0.5
+   HOUR_17:                    0.59
+   HOUR_18:                    0.73
+   HOUR_19:                    0.79
+   HOUR_20:                    0.99
+   HOUR_21:                    1
+   HOUR_22:                    0.96
+   HOUR_23:                    0.77
+   HOUR_24:                    0.55
+   PERCENT_RELEASED:           90
+   ANNUAL_USE:                 3857.45434570313
+   ANNUAL_USE_TYPE:            kWh/Yr
+   Peak_Demand:                707.387390136719
+   PEAK_DEMAND_TYPE:           Watts
+   APPLIANCE_PRESENT:          NULL
+
+   [Appliance 7]
+   BUILDING_TYPE:              User
+   APPLIANCE_ID:               7
+   REG_ID:                     NULL
+   NAME:                       HERS 2006 Reference
+   DESCP:                      
+   TYPE:                       Pool Pump
+   HOUR_1:                     0
+   HOUR_2:                     0
+   HOUR_3:                     0
+   HOUR_4:                     0
+   HOUR_5:                     0
+   HOUR_6:                     0
+   HOUR_7:                     0
+   HOUR_8:                     0
+   HOUR_9:                     0
+   HOUR_10:                    1
+   HOUR_11:                    1
+   HOUR_12:                    1
+   HOUR_13:                    1
+   HOUR_14:                    1
+   HOUR_15:                    1
+   HOUR_16:                    1
+   HOUR_17:                    0
+   HOUR_18:                    0
+   HOUR_19:                    0
+   HOUR_20:                    0
+   HOUR_21:                    0
+   HOUR_22:                    0
+   HOUR_23:                    0
+   HOUR_24:                    0
+   PERCENT_RELEASED:           0
+   ANNUAL_USE:                 0
+   ANNUAL_USE_TYPE:            kWh/Yr
+   Peak_Demand:                0
+   PEAK_DEMAND_TYPE:           Watts
+   APPLIANCE_PRESENT:          N
+
+   [Appliance 8]
+   BUILDING_TYPE:              User
+   APPLIANCE_ID:               8
+   REG_ID:                     NULL
+   NAME:                       HERS 2006 Reference
+   DESCP:                      
+   TYPE:                       Range
+   HOUR_1:                     0.057
+   HOUR_2:                     0.057
+   HOUR_3:                     0.057
+   HOUR_4:                     0.057
+   HOUR_5:                     0.057
+   HOUR_6:                     0.114
+   HOUR_7:                     0.171
+   HOUR_8:                     0.286
+   HOUR_9:                     0.343
+   HOUR_10:                    0.343
+   HOUR_11:                    0.343
+   HOUR_12:                    0.4
+   HOUR_13:                    0.457
+   HOUR_14:                    0.343
+   HOUR_15:                    0.286
+   HOUR_16:                    0.4
+   HOUR_17:                    0.571
+   HOUR_18:                    1
+   HOUR_19:                    0.857
+   HOUR_20:                    0.429
+   HOUR_21:                    0.286
+   HOUR_22:                    0.229
+   HOUR_23:                    0.171
+   HOUR_24:                    0.114
+   PERCENT_RELEASED:           100
+   ANNUAL_USE:                 0
+   ANNUAL_USE_TYPE:            kWh/Yr
+   Peak_Demand:                0
+   PEAK_DEMAND_TYPE:           Watts
+   APPLIANCE_PRESENT:          N
+
+   [Appliance 9]
+   BUILDING_TYPE:              User
+   APPLIANCE_ID:               9
+   REG_ID:                     NULL
+   NAME:                       HERS 2006 Reference
+   DESCP:                      
+   TYPE:                       Refrigeration
+   HOUR_1:                     0.85
+   HOUR_2:                     0.78
+   HOUR_3:                     0.75
+   HOUR_4:                     0.73
+   HOUR_5:                     0.73
+   HOUR_6:                     0.73
+   HOUR_7:                     0.75
+   HOUR_8:                     0.75
+   HOUR_9:                     0.8
+   HOUR_10:                    0.8
+   HOUR_11:                    0.8
+   HOUR_12:                    0.8
+   HOUR_13:                    0.88
+   HOUR_14:                    0.85
+   HOUR_15:                    0.85
+   HOUR_16:                    0.83
+   HOUR_17:                    0.88
+   HOUR_18:                    0.95
+   HOUR_19:                    1
+   HOUR_20:                    0.98
+   HOUR_21:                    0.95
+   HOUR_22:                    0.93
+   HOUR_23:                    0.9
+   HOUR_24:                    0.85
+   PERCENT_RELEASED:           100
+   ANNUAL_USE:                 775
+   ANNUAL_USE_TYPE:            kWh/Yr
+   Peak_Demand:                105.531181335449
+   PEAK_DEMAND_TYPE:           Watts
+   APPLIANCE_PRESENT:          Y
+
+   [Appliance 10]
+   BUILDING_TYPE:              User
+   APPLIANCE_ID:               10
+   REG_ID:                     NULL
+   NAME:                       HERS 2006 Reference
+   DESCP:                      
+   TYPE:                       Well Pump
+   HOUR_1:                     0.05
+   HOUR_2:                     0.05
+   HOUR_3:                     0.05
+   HOUR_4:                     0.05
+   HOUR_5:                     0.05
+   HOUR_6:                     0.05
+   HOUR_7:                     0.1
+   HOUR_8:                     0.1
+   HOUR_9:                     0.1
+   HOUR_10:                    0.1
+   HOUR_11:                    0.1
+   HOUR_12:                    0.1
+   HOUR_13:                    0.1
+   HOUR_14:                    0.1
+   HOUR_15:                    0.1
+   HOUR_16:                    0.1
+   HOUR_17:                    0.1
+   HOUR_18:                    0.1
+   HOUR_19:                    0.1
+   HOUR_20:                    0.1
+   HOUR_21:                    0.1
+   HOUR_22:                    0.1
+   HOUR_23:                    0.1
+   HOUR_24:                    0.1
+   PERCENT_RELEASED:           0
+   ANNUAL_USE:                 0
+   ANNUAL_USE_TYPE:            kWh/Yr
+   Peak_Demand:                0
+   PEAK_DEMAND_TYPE:           Watts
+   APPLIANCE_PRESENT:          NULL
+
+[Ceiling Fans Data]
+RECORDS:                       0
+FIELDS:                        5
+
+[Clothes Washer Data]
+RECORDS:                       0
+FIELDS:                        19
+
+[Dishwasher Data]
+RECORDS:                       0
+FIELDS:                        17
+
+[DuctDetails Data]
+RECORDS:                       0
+FIELDS:                        52
+
+[CoolDetails Data]
+RECORDS:                       0
+FIELDS:                        55
+
+[HeatDetails Data]
+RECORDS:                       0
+FIELDS:                        54
+
+[Dryer Data]
+RECORDS:                       1
+FIELDS:                        12
+
+   [Dryer 1]
+   Building_Type:              User
+   Dryer_ID:                   1
+   Fuel_Type:                  NULL
+   Efficiency:                 NULL
+   Use_Default:                Yes
+   BUILDINGAMERICA:            No
+   AUTO_TERM:                  NULL
+   KWHPERYEAR:                 NULL
+   VOLUME:                     NULL
+   GAS_ELECTRIC_SPLIT:         NULL
+   Use_EnergyStar_Def:         NULL
+
+[Fridge Data]
+RECORDS:                       1
+FIELDS:                        9
+
+   [Fridge 1]
+   BUILDING_TYPE:              User
+   FRIDGE_ID:                  1
+   REG_ID:                     0
+   ANNUAL_COST:                NULL
+   ELECTRIC_RATE:              NULL
+   USE_DEFAULT:                Yes
+   BUILDINGAMERICA:            NULL
+   LABEL_ENERGY_USE:           NULL
+
+[Lighting Data]
+RECORDS:                       1
+FIELDS:                        6
+
+   [Lighting 1]
+   Building_Type:              User
+   Percent_Fluorescent:        10
+   Qualifying_Locations:       NULL
+   Qualifying_Fixtures:        NULL
+   Use_Default:                Yes
+
+[Pool Pump Data]
+RECORDS:                       0
+FIELDS:                        5
+
+[Range Data]
+RECORDS:                       0
+FIELDS:                        8
+
+[Well Pump Data]
+RECORDS:                       0
+FIELDS:                        5
+
+[CeilingFansMOD Data]
+RECORDS:                       0
+FIELDS:                        21
+
+[ClothesWashersMOD Data]
+RECORDS:                       0
+FIELDS:                        31
+
+[DishWashersMOD Data]
+RECORDS:                       0
+FIELDS:                        38
+
+[ClothesDryersMOD Data]
+RECORDS:                       0
+FIELDS:                        34
+
+[RefrigeratorsMOD Data]
+RECORDS:                       0
+FIELDS:                        31
+
+[HardWiredLightingMOD Data]
+RECORDS:                       0
+FIELDS:                        47
+
+[RangeOvensMOD Data]
+RECORDS:                       0
+FIELDS:                        51
+
+[MiscElecLoadsMOD Data]
+RECORDS:                       0
+FIELDS:                        22
+
+[Verifiers Data]
+RECORDS:                       0
+FIELDS:                        9
+
+[Photovoltaics Data]
+RECORDS:                       0
+FIELDS:                        32
+
+[PV Module Data]
+RECORDS:                       0
+FIELDS:                        16
+
+[PV Inverter Data]
+RECORDS:                       0
+FIELDS:                        6
+
+[PV Battery Data]
+RECORDS:                       0
+FIELDS:                        14
+
+[Electric Block Rates Data]
+RECORDS:                       0
+FIELDS:                        7
+
+[Gas Block Rates Data]
+RECORDS:                       0
+FIELDS:                        7
+
+[Thermal Bypass Checklist Data]
+RECORDS:                       0
+FIELDS:                        103
+
+[Financial Disclosure Data]
+RECORDS:                       0
+FIELDS:                        27
+
+[RESNET Disclosure Data]
+RECORDS:                       0
+FIELDS:                        43
+
+[Builders Challenge Data]
+RECORDS:                       0
+FIELDS:                        96
+
+[EnergyStar Thermal Enclosure Checklist Data]
+RECORDS:                       0
+FIELDS:                        58
+
+[EnergyStar HVAC Rater Checklist Data]
+RECORDS:                       0
+FIELDS:                        114
+
+[EnergyStar Water Checklist Data]
+RECORDS:                       0
+FIELDS:                        34
+
+[EnergyStar AirPlus Checklist Data]
+RECORDS:                       0
+FIELDS:                        49
+
+[IADesc Data]
+RECORDS:                       0
+FIELDS:                        7
+
+[IAData Data]
+RECORDS:                       0
+FIELDS:                        70
